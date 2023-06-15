@@ -610,7 +610,7 @@ button{
     width: 100%;
   }
   .home-heading2 {
-    width: 428px;
+    width: 100%;
     font-size: 45px;
   }
   .home-banner {
@@ -624,6 +624,9 @@ button{
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
+  }
+  .home-image{
+    width: 100% !important;
   }
   .home-image1 {
     width: 100%;
