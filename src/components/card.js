@@ -10,7 +10,7 @@ const Card = (props) => {
         {src.match(/\.(jpeg|jpg|gif|png)$/) != null ? (
           <img alt="blog-post" src={src} className="blog-post-card2-image" />
         ) : (
-          <iframe width="560" height="315" src={src}
+          <iframe width="560" src={src}
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen></iframe>

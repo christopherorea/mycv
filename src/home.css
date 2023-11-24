@@ -21,6 +21,9 @@ button{
   flex-shrink: 0;
   border-radius: 0px;
 }
+iframe{
+  min-height: 400px;
+}
 .blog-post-card2-container {
   display: flex;
   align-items: flex-start;
