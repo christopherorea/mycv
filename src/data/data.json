@@ -1,170 +1,170 @@
-[ 
-    {
-        "title": "AI Consultant",
-        "category": "Research and Development",
-        "year": 2023,
-        "description": "I started working as an AI consultant, making use of Large Language Models (LLMs) to create innovative solutions; like finding the best candidates to a any position, enhancing laws aproach for mexians crafting my own law database, and creating customized news reporting using text categorization and generative transformation to create a fully automated news program using AI.",
-        "src": "./playground_assets/aitana.png",
-        "link": [
-            {
-                "src": "https://www.instagram.com/reel/Cz_M-Luup1-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-                "text": "Aitana News Project"
-            }
-        ]
-    },
-    {
-        "title": "NASA AI HACKATHON",
-        "category": "Space",
-        "year": 2023,
-        "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and a judgment is issued by means of a virtual assistant.",
-        "src": "./playground_assets/nasa-hack.png",
-        "link": [
-            {
-                "src": "https://www.linkedin.com/feed/update/urn:li:activity:7117006862872424448/",
-                "text": "Learn More Here"
-            }
-        ]
-    },
-    {
-        "title": "Mirai Innovation Representative",
-        "category": "Research and Development",
-        "year": 2023,
-        "description": "Mirai Innovation is an R&D company, leaders in Neuroscience Research in Mexico with presence in Japan. Working as a brand representative in events, news, congresses, and universities. Worked in creating opportunities in differents states in Mexico. Given successfully 10 Workshops in EMFUTECH 2023, covering topics from Ethical AI, Machine Learning, Reinforcement Learning, Deep Learning, Computer Vision, Natural Language Processing and Generation with LLM, and MLOps.",
-        "src": "https://www.youtube.com/embed/I8s1B7-Ra9o",
-        "link": [
-            {
-                "src": "https://www.mirai-innovation-lab.com/emfutech-japan-2023/",
-                "text": "Learn More Here"
-            },
-            {
-                "src": "https://www.youtube.com/shorts/Gcjlz4APKxo",
-                "text": "My 10 Workshops"
-            }
-        ]
-    },
-    {
-        "title": "FruitFul Life",
-        "category": "Psicology",
-        "year": 2023,
-        "description": "Fruitful Life is a tool that can understand emotional trends from users and help them through advices, motivational phrases and delivering a way to connect with oneself giving a name to what you feel. We want to help as many people as posible, you can check your feelings, take a picture of yourself, use an AI emotion detection tool to label easilly what you feel and according to that, create a motivational phrase and a picture that matches the phrase. The way we are thinking on monetizing will be on more features, to be later added and rise founds for this causes. Second time on contest.",
-        "src": "https://www.youtube.com/embed/w_4s3A65Iss",
-        "link": [
-            {
-                "src": "https://www.linkedin.com/posts/chrisgalleta_codelaunch-activity-7081691918463631360-zXlC?utm_source=share&utm_medium=member_desktop",
-                "text": "Codelaunch Mexico semifanalist"
-            },
-            {
-                "src": "https://fruitfullife.inteligentia.xyz/",
-                "text": "Official Website"
-            }
-        ]
-    },
-    {
-        "title": "Sonora GDG, and others in Mexico",
-        "category": "AI Speaker",
-        "year": 2023,
-        "description": "Gave talks for Sonora, Guerrero, Querétaro and others about different topics, from my experience developing a high demand project in Japan and teaching how to reduce Development time from 45 days to 7 days to how to use Vertex AI to create an LLM app.",
-        "src": "https://www.youtube.com/embed/AJ1rG6ZATP4",
-        "link": [
-            {
-                "src": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-gdg-hermosillo-react-firebase-and-ai-with-gcloud/",
-                "text": "Learn More Here"
-            },
-            {
-                "src": "https://www.youtube.com/watch?v=Tgg2SludF38&list=PLnv6QfOebpsJFhWvHjUeMX7oC521725Vx&ab_channel=TheHappyCookieHour",
-                "text": "Playlist of talks"
-            }
-        ]
-    },
-    {
-        "title": "IEU Marketing Analysis",
-        "category": "Digital Marketing",
-        "year": 2023,
-        "description": "IEU University required a solution that could transform unstructured data into insights about the college. We presented a solution that used Vector similarity using Embedding models, Markov Chains, and Emotion Detection.",
-        "src": "./playground_assets/ieu.png",
-        "link": [
-            {
-                "src": "https://ieu.edu.mx/",
-                "text": "Universidad IEU website"
-            }
-        ]
-    },
-    {
-        "title": "AI-Based automatic idea generator for social media",
-        "category": "Digital Marketing",
-        "year": 2023,
-        "description": "This project is a Cloud AI-based automatic idea generator for social media made for the Japanese company The DECK in alliance with Mirai Innovation. Community managers become monotonous and may lack creativity when generating content for social media. Because of that, it was decided to develop a recommendation system based on engagement using Embedded Systems for vector similarity that generates interesting ideas that can be used for social media content. The project was retaken and redone in 7 days; creating a faster and computational cheaper solution to raise founding in Mexico.",
-        "src": "https://www.youtube.com/embed/ZgW3N6i3PzE",
-        "link": [
-            {
-                "src": "https://www.youtube.com/watch?v=ZgW3N6i3PzE&list=PLnv6QfOebpsKsf9tSfjA0aMZye8NEKsoN&ab_channel=TheHappyCookieHour",
-                "text": "Radio and TV Interviews"
-            }
-        ]
-    },
-    {
-        "title": "Brain Based dynamic art studio to generate Smart Contracts using emotional analysis",
-        "category": "Research and Development",
-        "year": 2023,
-        "description": "People often struggle expressing emotions and lack of time to spend in learning new techniques to do so. Moreover, modern technologies are difficult to use for the general audience in order to express meaningful ideas. Emerging technologies like AI Art generation, NFTs and Electro Encephalograms (EEG) lack in direction as they are used as the final outcome and not as a tool. We propose a Brain Machine Interface (BMI) Art Studio that transforms the environment with your emotions. So that, people can create art and save it in the blockchain. With the use of brainwaves people can paint in a Virtual Reality environment, transform their painting with Image2Image Generation using a description and the emotion they are feeling. The emotion detection is done with Resnet, a Time Series Classification state of art model that can identify 3 cognitive states (Positive, Neutral and Negative).",
-        "src": "https://www.youtube.com/embed/1qFb25Dbn9c",
-        "link": [
-            {
-                "src": "https://www.youtube.com/shorts/xk-o9SL6oFQ",
-                "text": "Learn More Here"
-            }
-        ]
-    },
-    {
-        "title": "EMFUTECH 2022",
-        "category": "Research and Development",
-        "year": 2022,
-        "description": "EMFUTECH trainning program let's you learn from the best teachers in Japan about new emerging technologies and create innovative projects. Selected among 18 best from +80 applicants in 2022. Program duration: 3 Months. Being on workshops about: Robotics, Nanosatellites, Aerospace, Aerial-Earth-Aquatic Robots, AR, VR, Blockchain, Cloud computing, Design Thinking, Bioprinting, Nanotechnology, and Artificial Inteligence. Successfully completed two projects: Designed, Created, and Deployed an AI-Based automatic idea generator for social media, and a Brain Based dynamic art studio to generate NFT art for competition in 2023 in Europe.",
-        "src": "https://www.youtube.com/embed/FvSprWxMHnU",
-        "link": [
-            {
-                "src": "https://issuu.com/diarioplazajuarez_/docs/06-03-23/13?fbclid=IwAR3ZVVsLgvqoYIEjlsR-oMnnhgge0k8MzhSL_G7reMgwlbLgdnOeURmlSt8",
-                "text": "Research Magazine interview"
-            }
-        ]
-    },
-    {
-        "title": "Text2Neo4j",
-        "category": "Ciber Security",
-        "year": 2022,
-        "description": "Process Tempo is a Graph data wharehouse and an Analytics Platform that brings value to data using graph databases, linking data in a no traditional way. 80% of the time was used in analyzing and creating dashboards, KPI’s and migrating all data on a Cloud based environment. Worked for Ford Motor Company and leading Cyber security “React First” use case, adding value through NLP solutions such as Text to Code generation or Personal Identificable Information (PII) Detection to avoid data breaches.",
-        "src": "./playground_assets/text-to-code.jpg",
-        "link": [
-            {
-                "src": "https://www.processtempo.com/",
-                "text": "Process Tempo Website"
-            }
-        ]
-    },
-    {
-        "title": "Creolio",
-        "category": "Education",
-        "year": 2021,
-        "description": "The idea behind creolio resides that students learn a new language by teachin the most frequent words first. This project is created for people who want to learn new languages from scratch by learning through repetition the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics to decide over the frequency of the words.",
-        "src": "./playground_assets/creolio.jpg",
-        "link": [
-            {
-                "src": "https://www.linkedin.com/in/chrisgalleta/",
-                "text": "Learn More Here"
-            }
-        ]
-    },
-    {
-        "title": "Lia - La Inteligencia Artificial",
-        "category": "Research and Development",
-        "year": "2020-2021",
-        "description": "Anuka is a Language Learning startup that provides an environment for medium to advance language learners using Natural Language Processing. According to context, delivered grammar examples, lematization, synonyms, and exercises. Based on Spaced Repetition users could learn faster and at their own pace. They required to decrease the memory consumption of certain Spacy modules looking for state of the art solutions. Lead R&D for 3 months. Lia is the result of combining Facebook chats and GPT-2. My first entrance into NLP and LLMs.",
-        "src": "https://www.youtube.com/embed/GRFLl9qk8Cc",
-        "link": [
-            {
-                "src": "https://youtube.com/shorts/A1m5BzWK1NM?si=ZO_J1n-ppdS1Nc1W",
-                "text": "Learn More Here"
-            }
-        ]
-    }
+[
+  {
+    "title": "AI Consultant",
+    "category": "Research and Development",
+    "year": 2023,
+    "description": "I started working as an AI consultant, making use of Large Language Models (LLMs) to create innovative solutions; like finding the best candidates to a any position, enhancing laws aproach for mexians crafting my own law database, and creating customized news reporting using text categorization and generative transformation to create a fully automated news program using AI.",
+    "src": "./playground_assets/aitana.png",
+    "link": [
+      {
+        "src": "https://www.instagram.com/reel/Cz_M-Luup1-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+        "text": "Aitana News Project"
+      }
+    ]
+  },
+  {
+    "title": "NASA AI HACKATHON",
+    "category": "Space",
+    "year": 2023,
+    "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and a judgment is issued by means of a virtual assistant.",
+    "src": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7117006861916082178?compact=1",
+    "link": [
+      {
+        "src": "https://www.linkedin.com/feed/update/urn:li:activity:7117006862872424448/",
+        "text": "Learn More Here"
+      }
+    ]
+  },
+  {
+    "title": "Mirai Innovation Representative",
+    "category": "Research and Development",
+    "year": 2023,
+    "description": "Mirai Innovation is an R&D company, leaders in Neuroscience Research in Mexico with presence in Japan. Working as a brand representative in events, news, congresses, and universities. Worked in creating opportunities in differents states in Mexico. Given successfully 10 Workshops in EMFUTECH 2023, covering topics from Ethical AI, Machine Learning, Reinforcement Learning, Deep Learning, Computer Vision, Natural Language Processing and Generation with LLM, and MLOps.",
+    "src": "https://www.youtube.com/embed/I8s1B7-Ra9o",
+    "link": [
+      {
+        "src": "https://www.mirai-innovation-lab.com/emfutech-japan-2023/",
+        "text": "Learn More Here"
+      },
+      {
+        "src": "https://www.youtube.com/shorts/Gcjlz4APKxo",
+        "text": "My 10 Workshops"
+      }
+    ]
+  },
+  {
+    "title": "FruitFul Life",
+    "category": "Psicology",
+    "year": 2023,
+    "description": "Fruitful Life is a tool that can understand emotional trends from users and help them through advices, motivational phrases and delivering a way to connect with oneself giving a name to what you feel. We want to help as many people as posible, you can check your feelings, take a picture of yourself, use an AI emotion detection tool to label easilly what you feel and according to that, create a motivational phrase and a picture that matches the phrase. The way we are thinking on monetizing will be on more features, to be later added and rise founds for this causes. Second time on contest.",
+    "src": "https://www.youtube.com/embed/w_4s3A65Iss",
+    "link": [
+      {
+        "src": "https://www.linkedin.com/posts/chrisgalleta_codelaunch-activity-7081691918463631360-zXlC?utm_source=share&utm_medium=member_desktop",
+        "text": "Codelaunch Mexico semifanalist"
+      },
+      {
+        "src": "https://fruitfullife.inteligentia.xyz/",
+        "text": "Official Website"
+      }
+    ]
+  },
+  {
+    "title": "Sonora GDG, and others in Mexico",
+    "category": "AI Speaker",
+    "year": 2023,
+    "description": "Gave talks for Sonora, Guerrero, Querétaro and others about different topics, from my experience developing a high demand project in Japan and teaching how to reduce Development time from 45 days to 7 days to how to use Vertex AI to create an LLM app.",
+    "src": "https://www.youtube.com/embed/AJ1rG6ZATP4",
+    "link": [
+      {
+        "src": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-gdg-hermosillo-react-firebase-and-ai-with-gcloud/",
+        "text": "Learn More Here"
+      },
+      {
+        "src": "https://www.youtube.com/watch?v=Tgg2SludF38&list=PLnv6QfOebpsJFhWvHjUeMX7oC521725Vx&ab_channel=TheHappyCookieHour",
+        "text": "Playlist of talks"
+      }
+    ]
+  },
+  {
+    "title": "IEU Marketing Analysis",
+    "category": "Digital Marketing",
+    "year": 2023,
+    "description": "IEU University required a solution that could transform unstructured data into insights about the college. We presented a solution that used Vector similarity using Embedding models, Markov Chains, and Emotion Detection.",
+    "src": "./playground_assets/ieu.png",
+    "link": [
+      {
+        "src": "https://ieu.edu.mx/",
+        "text": "Universidad IEU website"
+      }
+    ]
+  },
+  {
+    "title": "AI-Based automatic idea generator for social media",
+    "category": "Digital Marketing",
+    "year": 2023,
+    "description": "This project is a Cloud AI-based automatic idea generator for social media made for the Japanese company The DECK in alliance with Mirai Innovation. Community managers become monotonous and may lack creativity when generating content for social media. Because of that, it was decided to develop a recommendation system based on engagement using Embedded Systems for vector similarity that generates interesting ideas that can be used for social media content. The project was retaken and redone in 7 days; creating a faster and computational cheaper solution to raise founding in Mexico.",
+    "src": "https://www.youtube.com/embed/ZgW3N6i3PzE",
+    "link": [
+      {
+        "src": "https://www.youtube.com/watch?v=ZgW3N6i3PzE&list=PLnv6QfOebpsKsf9tSfjA0aMZye8NEKsoN&ab_channel=TheHappyCookieHour",
+        "text": "Radio and TV Interviews"
+      }
+    ]
+  },
+  {
+    "title": "Brain Based dynamic art studio to generate Smart Contracts using emotional analysis",
+    "category": "Research and Development",
+    "year": 2023,
+    "description": "People often struggle expressing emotions and lack of time to spend in learning new techniques to do so. Moreover, modern technologies are difficult to use for the general audience in order to express meaningful ideas. Emerging technologies like AI Art generation, NFTs and Electro Encephalograms (EEG) lack in direction as they are used as the final outcome and not as a tool. We propose a Brain Machine Interface (BMI) Art Studio that transforms the environment with your emotions. So that, people can create art and save it in the blockchain. With the use of brainwaves people can paint in a Virtual Reality environment, transform their painting with Image2Image Generation using a description and the emotion they are feeling. The emotion detection is done with Resnet, a Time Series Classification state of art model that can identify 3 cognitive states (Positive, Neutral and Negative).",
+    "src": "https://www.youtube.com/embed/1qFb25Dbn9c",
+    "link": [
+      {
+        "src": "https://www.youtube.com/shorts/xk-o9SL6oFQ",
+        "text": "Learn More Here"
+      }
+    ]
+  },
+  {
+    "title": "EMFUTECH 2022",
+    "category": "Research and Development",
+    "year": 2022,
+    "description": "EMFUTECH trainning program let's you learn from the best teachers in Japan about new emerging technologies and create innovative projects. Selected among 18 best from +80 applicants in 2022. Program duration: 3 Months. Being on workshops about: Robotics, Nanosatellites, Aerospace, Aerial-Earth-Aquatic Robots, AR, VR, Blockchain, Cloud computing, Design Thinking, Bioprinting, Nanotechnology, and Artificial Inteligence. Successfully completed two projects: Designed, Created, and Deployed an AI-Based automatic idea generator for social media, and a Brain Based dynamic art studio to generate NFT art for competition in 2023 in Europe.",
+    "src": "https://www.youtube.com/embed/FvSprWxMHnU",
+    "link": [
+      {
+        "src": "https://issuu.com/diarioplazajuarez_/docs/06-03-23/13?fbclid=IwAR3ZVVsLgvqoYIEjlsR-oMnnhgge0k8MzhSL_G7reMgwlbLgdnOeURmlSt8",
+        "text": "Research Magazine interview"
+      }
+    ]
+  },
+  {
+    "title": "Text2Neo4j",
+    "category": "Ciber Security",
+    "year": 2022,
+    "description": "Process Tempo is a Graph data wharehouse and an Analytics Platform that brings value to data using graph databases, linking data in a no traditional way. 80% of the time was used in analyzing and creating dashboards, KPI’s and migrating all data on a Cloud based environment. Worked for Ford Motor Company and leading Cyber security “React First” use case, adding value through NLP solutions such as Text to Code generation or Personal Identificable Information (PII) Detection to avoid data breaches.",
+    "src": "./playground_assets/text-to-code.jpg",
+    "link": [
+      {
+        "src": "https://www.processtempo.com/",
+        "text": "Process Tempo Website"
+      }
+    ]
+  },
+  {
+    "title": "Creolio",
+    "category": "Education",
+    "year": 2021,
+    "description": "The idea behind creolio resides that students learn a new language by teachin the most frequent words first. This project is created for people who want to learn new languages from scratch by learning through repetition the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics to decide over the frequency of the words.",
+    "src": "./playground_assets/creolio.jpg",
+    "link": [
+      {
+        "src": "https://www.linkedin.com/in/chrisgalleta/",
+        "text": "Learn More Here"
+      }
+    ]
+  },
+  {
+    "title": "Lia - La Inteligencia Artificial",
+    "category": "Research and Development",
+    "year": "2020-2021",
+    "description": "Anuka is a Language Learning startup that provides an environment for medium to advance language learners using Natural Language Processing. According to context, delivered grammar examples, lematization, synonyms, and exercises. Based on Spaced Repetition users could learn faster and at their own pace. They required to decrease the memory consumption of certain Spacy modules looking for state of the art solutions. Lead R&D for 3 months. Lia is the result of combining Facebook chats and GPT-2. My first entrance into NLP and LLMs.",
+    "src": "https://www.youtube.com/embed/GRFLl9qk8Cc",
+    "link": [
+      {
+        "src": "https://youtube.com/shorts/A1m5BzWK1NM?si=ZO_J1n-ppdS1Nc1W",
+        "text": "Learn More Here"
+      }
+    ]
+  }
 ]
