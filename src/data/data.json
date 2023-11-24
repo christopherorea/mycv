@@ -4,7 +4,7 @@
         "category": "Research and Development",
         "year": 2023,
         "description": "I started working as an AI consultant, making use of Large Language Models (LLMs) to create innovative solutions; like finding the best candidates to a any position, enhancing laws aproach for mexians crafting my own law database, and creating customized news reporting using text categorization and generative transformation to create a fully automated news program using AI.",
-        "src": "/playground_assets/aitana.png",
+        "src": "./playground_assets/aitana.png",
         "link": [
             {
                 "src": "https://www.instagram.com/reel/Cz_M-Luup1-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
@@ -17,7 +17,7 @@
         "category": "Space",
         "year": 2023,
         "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and a judgment is issued by means of a virtual assistant.",
-        "src": "/playground_assets/nasa-hack.png",
+        "src": "./playground_assets/nasa-hack.png",
         "link": [
             {
                 "src": "https://www.linkedin.com/feed/update/urn:li:activity:7117006862872424448/",
@@ -81,7 +81,7 @@
         "category": "Digital Marketing",
         "year": 2023,
         "description": "IEU University required a solution that could transform unstructured data into insights about the college. We presented a solution that used Vector similarity using Embedding models, Markov Chains, and Emotion Detection.",
-        "src": "/playground_assets/ieu.png",
+        "src": "./playground_assets/ieu.png",
         "link": [
             {
                 "src": "https://ieu.edu.mx/",
@@ -133,7 +133,7 @@
         "category": "Ciber Security",
         "year": 2022,
         "description": "Process Tempo is a Graph data wharehouse and an Analytics Platform that brings value to data using graph databases, linking data in a no traditional way. 80% of the time was used in analyzing and creating dashboards, KPI’s and migrating all data on a Cloud based environment. Worked for Ford Motor Company and leading Cyber security “React First” use case, adding value through NLP solutions such as Text to Code generation or Personal Identificable Information (PII) Detection to avoid data breaches.",
-        "src": "/playground_assets/text-to-code.jpg",
+        "src": "./playground_assets/text-to-code.jpg",
         "link": [
             {
                 "src": "https://www.processtempo.com/",
@@ -146,7 +146,7 @@
         "category": "Education",
         "year": 2021,
         "description": "The idea behind creolio resides that students learn a new language by teachin the most frequent words first. This project is created for people who want to learn new languages from scratch by learning through repetition the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics to decide over the frequency of the words.",
-        "src": "/playground_assets/creolio.jpg",
+        "src": "./playground_assets/creolio.jpg",
         "link": [
             {
                 "src": "https://www.linkedin.com/in/chrisgalleta/",
