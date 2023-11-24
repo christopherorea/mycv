@@ -19,6 +19,7 @@ jobs:
           git config --global user.name 'christopherorea'
           git config --global user.email 'c28_09_98@hotmail.com'
           git checkout -b "gh-pages"
-          git add -f build
+          mv build/* .
+          git add .
           git commit -am "Nuevo website"
           git push --force --set-upstream origin gh-pages
