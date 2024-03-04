@@ -12,7 +12,7 @@ const Hero = () => {
                     </h1>
                     <span className="home-text03">
                         You can not compete with someone who loves what he does. It is 
-                        within him. he does not compete. He lives
+                        in his instict. He does not compete. He lives.
                     </span>
                     <div className="home-cta-btn-container">
                         <a href="#work">
