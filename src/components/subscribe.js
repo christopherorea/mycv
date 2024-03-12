@@ -15,6 +15,7 @@ const Subscribe = ()=>{
             <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/chrisgalleta/"><Button
                 className="home-button Anchor button">LinkedIn</Button></a>
             <a target="_blank" rel="noreferrer" href="https://github.com/christopherorea"><Button className="home-button Anchor button">Github</Button></a>
+            <a target="_blank" rel="noreferrer" href="https://medium.com/@thcookieh"><Button className="home-button Anchor button">Medium</Button></a>                    
           </div>
         </div>
       </div>
