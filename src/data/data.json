@@ -4,7 +4,7 @@
     "category": "Research and Development",
     "year": 2024,
     "description": "Hired as a backend developer for LSEG, I was part of the Pattern Library Engineer group. We facilitated Cloud consuption to the company. The project had great focus on AI usage with LLMs. Managed to deliver a POC solution of RAG with Neo4j + LLM using Vector indexing.",
-    "src": "/playground_assets/lseg.png",
+    "src": "./playground_assets/lseg.png",
     "link": [
       {
         "src": "https://medium.com/@thcookieh/how-i-created-a-neo4j-search-engine-with-generative-ai-98b43cf8ec1e",
