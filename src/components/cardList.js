@@ -14,7 +14,7 @@ const CardList = ()=>{
     return(
         <div className="home-container5" id="work"> 
             <h1>
-            <span>+4 years NLP & NLG Experience</span>
+            <span>+4 Years doing NLP & NLG</span>
             <br />
             </h1>
             <div className="home-blog">

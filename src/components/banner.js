@@ -6,7 +6,7 @@ const Banner = () => {
                 <span className="home-text07">
                     I'm a natural language processing and generation expert with a
                     passion for research and development with Full-Stack developer 
-                    with experience in Python and ReactJs. Bachelor's degree
+                    experience in Python and ReactJs. Bachelor's degree
                     in Data Science from Universidad IEU.
                 </span>
                 <br className="home-text08" />
