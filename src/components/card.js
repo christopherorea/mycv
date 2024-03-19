@@ -3,7 +3,7 @@ import { Fragment } from "react";
 const Card = (props) => {
   const { year, title, description, category, link, src } = props;
 
-  const links = link.map(l => <Fragment><a href={l.src}>{l.text}{" >>"}</a><br /></Fragment>)
+  const links = link.map(l => <Fragment><a target="_blank" rel="noreferrer" href={l.src}>{l.text}{" >>"}</a><br /></Fragment>)
   return (
     <div className="home-container6 inteligentia">
       <div className="blog-post-card2-blog-post-card blog-post-card2-root-class-name3">
