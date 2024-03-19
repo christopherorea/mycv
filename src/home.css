@@ -326,7 +326,7 @@ iframe, .lazy-loaded{
 }
 .home-image {
   width: 540px;
-  height: 937px;
+  height: 600px;
   object-fit: cover;
   flex-shrink: 0;
 }
