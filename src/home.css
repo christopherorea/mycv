@@ -269,6 +269,7 @@ iframe, .lazy-loaded{
   padding-right: var(--dl-space-space-tenunits);
   padding-bottom: var(--dl-space-space-doubleunit);
   background-color: #c9c9c9;
+  width: 260px;
 }
 .home-text04 {
   color: #101010;

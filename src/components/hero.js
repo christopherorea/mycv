@@ -30,7 +30,7 @@ const Hero = () => {
                                 <span className="home-text04">MY LINKS</span>
                             </Button>
                         </a>
-                        <a href="https://drive.google.com/file/d/1kPEabtYGZ4nx6ibjoBZMBm0enSb_8HWz/view?usp=sharing">
+                        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1kPEabtYGZ4nx6ibjoBZMBm0enSb_8HWz/view?usp=sharing">
                             <Button className="home-cta-btn button Anchor">
                                 <span className="home-text04">MY RESUME</span>
                             </Button>
