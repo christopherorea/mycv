@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mycv/static/css/main.26c58d10.css",
+    "main.js": "/mycv/static/js/main.77e937fd.js",
+    "static/media/pxl_20221011_204017418~2-1500w.jpg": "/mycv/static/media/pxl_20221011_204017418~2-1500w.93f7e929d13ba0b9222e.jpg",
+    "index.html": "/mycv/index.html",
+    "main.26c58d10.css.map": "/mycv/static/css/main.26c58d10.css.map",
+    "main.77e937fd.js.map": "/mycv/static/js/main.77e937fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c58d10.css",
+    "static/js/main.77e937fd.js"
+  ]
+}
