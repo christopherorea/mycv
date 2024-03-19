@@ -21,7 +21,19 @@ const Hero = () => {
                             </Button>
                         </a>
                         <a href="#yo">
-                            <Button className="home-cta-btn1 button Anchor">ABOUT ME</Button>
+                            <Button className="home-cta-btn button Anchor">
+                                <span className="home-text04">ABOUT ME</span>
+                            </Button>
+                        </a>
+                        <a href="#subscribe">
+                            <Button className="home-cta-btn button Anchor">   
+                                <span className="home-text04">MY LINKS</span>
+                            </Button>
+                        </a>
+                        <a href="https://drive.google.com/file/d/1kPEabtYGZ4nx6ibjoBZMBm0enSb_8HWz/view?usp=sharing">
+                            <Button className="home-cta-btn button Anchor">
+                                <span className="home-text04">MY CV</span>
+                            </Button>
                         </a>
                     </div>
                 </div>

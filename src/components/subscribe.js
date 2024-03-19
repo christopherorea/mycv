@@ -2,7 +2,7 @@ import Button from "./button";
 
 const Subscribe = ()=>{
     return(
-        <div className="home-subscribe">
+        <div className="home-subscribe" id="subscribe">
         <img alt="osakas" src="./playground_assets/ense%C3%B1anza-1500w.jpg" className="home-image1" />
         <div className="home-container8">
           <div className="home-heading-container">
