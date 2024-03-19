@@ -5,22 +5,17 @@ const Banner = () => {
             <span className="home-text06">
                 <span className="home-text07">
                     I'm a natural language processing and generation expert with a
-                    passion for research and development. I have a bachelor's degree
-                    in data from Universidad IEU (Big Data), where I learned how to
-                    apply cutting-edge techniques to solve real-world problems. I'm
-                    also a full stack developer with experience in Python and
-                    ReactJs, and I love creating innovative web applications that
-                    use artificial intelligence.
+                    passion for research and development with full stack developer 
+                    with experience in Python and ReactJs. Bachelor's degree
+                    in Data Science from Universidad IEU.
                 </span>
                 <br className="home-text08" />
                 <br className="home-text09" />
                 <span className="home-text10">
-                    In addition to my professional skills, I'm also an entrepreneur
-                    and an artificial intelligence consultant. I help businesses and
+                    I'm also an entrepreneur
+                    and an artificial intelligence consultant, helping businesses and
                     individuals leverage the power of AI to achieve their goals and
-                    improve their performance. I also share my knowledge and
-                    insights on Instagram and YouTube as @thcookieh, where I talk
-                    mostly about Artificial Intelligence and travel.
+                    improve their performance.
                 </span>
                 <br className="home-text11" />
                 <br className="home-text12" />
