@@ -136,6 +136,7 @@
 html {
   font-family: Arial;
   font-size: 16px;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -147,7 +148,6 @@ body {
   line-height: 1.55;
   color: var(--dl-color-gray-black);
   background-color: var(--dl-color-gray-white);
-  scroll-behavior: smooth;
   margin: 0 0;
 }
 
