@@ -1,5 +1,18 @@
 [
   {
+    "title": "AI POC Developer",
+    "category": "Research and Development",
+    "year": 2024,
+    "description": "Hired as a backend developer for LSEG, I was part of the Pattern Library Engineer group. We facilitated Cloud consuption to the company. The project had great focus on AI usage with LLMs. Managed to deliver a POC solution of RAG with Neo4j + LLM using Vector indexing.",
+    "src": "/playground_assets/lseg.png",
+    "link": [
+      {
+        "src": "https://medium.com/@thcookieh/how-i-created-a-neo4j-search-engine-with-generative-ai-98b43cf8ec1e",
+        "text": "RAG POC for LSEG"
+      }
+    ]
+  },
+  {
     "title": "AI Consultant",
     "category": "Research and Development",
     "year": 2023,
@@ -9,18 +22,22 @@
       {
         "src": "https://www.instagram.com/reel/Cz_M-Luup1-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
         "text": "Aitana News Project"
+      },
+      {
+        "src": "https://www.youtube.com/watch?v=N91gM0kUHP4&list=PLnv6QfOebpsKsf9tSfjA0aMZye8NEKsoN&index=5&t=127s&ab_channel=Ciadet",
+        "text": "CIADET - Colombia interview"
       }
     ]
   },
   {
     "title": "NASA AI HACKATHON",
-    "category": "Space",
+    "category": "Nasa Space Missions",
     "year": 2023,
     "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and a judgment is issued by means of a virtual assistant.",
-    "src": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7117006861916082178",
+    "src": "./playground_assets/galactic.jpg",
     "link": [
       {
-        "src": "https://www.linkedin.com/feed/update/urn:li:activity:7117006862872424448/",
+        "src": "https://medium.com/@thcookieh/my-experience-at-nasa-hackathon-2023-6b1861dc9472",
         "text": "Learn More Here"
       }
     ]
@@ -39,6 +56,10 @@
       {
         "src": "https://www.youtube.com/shorts/Gcjlz4APKxo",
         "text": "My 10 Workshops"
+      },
+      {
+        "src": "https://issuu.com/diarioplazajuarez_/docs/06-03-23/13?fbclid=IwAR0-e18agZccZIKR8pYdt_lszj6wk-_OY4JT3RTn04wndWYJl-0WeFxsl3I",
+        "text": "Citnova - Scientific Magazine"
       }
     ]
   },
@@ -132,8 +153,8 @@
     "src": "./playground_assets/text-to-code.jpg",
     "link": [
       {
-        "src": "https://www.processtempo.com/",
-        "text": "Process Tempo Website"
+        "src": "https://medium.com/@thcookieh/llm-conquers-everyone-sooner-or-later-afee15116ea5",
+        "text": "2024 On Prem deployment of solution"
       }
     ]
   },
