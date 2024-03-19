@@ -170,7 +170,7 @@
     "title": "Creolio",
     "category": "Education",
     "year": 2021,
-    "description": "The idea behind creolio resides that students learn a new language by teachin the most frequent words first. This project is created for people who want to learn new languages from scratch by learning through repetition the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics to decide over the frequency of the words.",
+    "description": "The idea behind creolio resides that students learn a new language by teaching the most frequent words first. This project is created for people who want to learn new languages from scratch by learning through repetition the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics to decide over the frequency of the words.",
     "src": "./playground_assets/creolio.jpg",
     "link": [
       {
