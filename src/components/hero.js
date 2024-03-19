@@ -32,7 +32,7 @@ const Hero = () => {
                         </a>
                         <a href="https://drive.google.com/file/d/1kPEabtYGZ4nx6ibjoBZMBm0enSb_8HWz/view?usp=sharing">
                             <Button className="home-cta-btn button Anchor">
-                                <span className="home-text04">MY CV</span>
+                                <span className="home-text04">MY RESUME</span>
                             </Button>
                         </a>
                     </div>
