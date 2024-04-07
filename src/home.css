@@ -285,14 +285,12 @@ iframe, .lazy-loaded{
   background-color: var(--dl-color-gray-white);
 }
 .home-container3 {
-  width: 40%;
-  height: 461px;
-  display: flex;
-  align-items: center;
+  background-position: 0 20%;
   background-size: cover;
+  height: 550px;
   justify-content: center;
+  width: 40%;
   background-image: url("/public/playground_assets/banner.png");
-  background-position: center;
 }
 .home-banner {
   display: flex;
