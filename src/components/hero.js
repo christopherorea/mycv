@@ -11,8 +11,8 @@ const Hero = () => {
                         <span>a.k.a. Galleta</span>
                     </h1>
                     <span className="home-text03">
-                        You can not compete with someone who loves what they do. They are 
-                        in their instict. They do not compete. They live.
+                        You cannot compete with someone who loves what they do.
+                        They are in their instinct. They do not compete. They live.
                     </span>
                     <div className="home-cta-btn-container">
                         <a href="#work">
