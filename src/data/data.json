@@ -3,7 +3,7 @@
     "title": "AI POC Developer",
     "category": "Research and Development",
     "year": 2024,
-    "description": "Hired as a backend developer for LSEG, I was part of the Pattern Library Engineer group. We facilitated Cloud consuption to the company. The project had great focus on AI usage with LLMs. Managed to deliver a POC solution of RAG with Neo4j + LLM using Vector indexing. The result was a Search + Recommendation Engine with data reasoning.",
+    "description": "Working for LSEG, I was part of the Pattern Library Engineering group. We facilitated Cloud Arquitecture to the company. Leading AI development with LLMs. Managed to deliver a POC solution of RAG with Neo4j + LLM using Vector indexing. The result was a research on time/cost improvements using LLMs + development of a Search + Recommendation Engine with data reasoning. Done within a month.",
     "src": "./playground_assets/lseg.png",
     "link": [
       {
@@ -16,7 +16,7 @@
     "title": "AI Consultant",
     "category": "Research and Development",
     "year": 2023,
-    "description": "I started working as an AI consultant, making use of Large Language Models (LLMs) to create innovative solutions; like finding the best candidates to a any position, enhancing laws aproach for mexians crafting my own law database, and creating customized news reporting using text categorization and generative transformation to create a fully automated news program using AI.",
+    "description": "Working as an AI advisor, making use of Large Language Models (LLMs) to create innovative solutions and preexisting Deep Neural Network architectures to save costs and efficiency for clients: like finding the best candidates to a any position on H.R.; continuing a Tex2Code solution into a full LLM on prem solution; enhancing laws aproach for mexians crafting our own law database; and creating customized news reporting using text categorization and generative-AI to create a fully automated news program from 5 hours to 5 mins.",
     "src": "./playground_assets/aitana.png",
     "link": [
       {
@@ -33,7 +33,7 @@
     "title": "NASA AI HACKATHON",
     "category": "Nasa Space Missions",
     "year": 2023,
-    "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and a judgment is issued by means of a virtual assistant.",
+    "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and judged by means of a virtual assistant. Lead 5 people team building oir own RAG on a knowledge graph.",
     "src": "./playground_assets/galactic.jpg",
     "link": [
       {
@@ -46,7 +46,7 @@
     "title": "Mirai Innovation Representative",
     "category": "Research and Development",
     "year": 2023,
-    "description": "Mirai Innovation is an R&D company, leaders in Neuroscience Research in Mexico with presence in Japan. Working as a brand representative in events, news, congresses, and universities. Worked in creating opportunities in differents states in Mexico. Given successfully 10 Workshops in EMFUTECH 2023, covering topics from Ethical AI, Machine Learning, Reinforcement Learning, Deep Learning, Computer Vision, Natural Language Processing and Generation with LLM, and MLOps.",
+    "description": "Mirai Innovation is an R&D company, leaders in Neuroscience Research in Mexico with presence in Japan. Invited to work as an AI mentor, and speaker in events, news media interviews, congresses, and universities in Mexico. Leading development of AI applications for Government. Invited to Japan to give +10 Workshops in EMFUTECH 2023, covering topics from Ethical AI, Machine Learning, Reinforcement Learning, Deep Learning, Computer Vision, Natural Language Processing and Generation with LLM, and MLOps.",
     "src": "https://www.youtube.com/embed/I8s1B7-Ra9o",
     "link": [
       {
@@ -67,7 +67,7 @@
     "title": "FruitFul Life",
     "category": "Psicology",
     "year": 2023,
-    "description": "Fruitful Life is a tool that can understand emotional trends from users and help them through advices, motivational phrases and delivering a way to connect with oneself giving a name to what you feel. We want to help as many people as possible, you can check your feelings, take a picture of yourself, use an AI emotion detection tool to label easilly what you feel and according to that, create a motivational phrase and a picture that matches the phrase. The way we are thinking on monetizing will be on more features, to be later added and rise founds for this causes. Second time on contest.",
+    "description": "Fruitful Life is our proposal to understand emotional trends from users and help them through advices, motivational phrases and delivering a way to connect with oneself giving a name to what you feel. We want to help as many people as possible, giving suicide and depression awareness. You can check your feelings with facial emotional recognition. With a picture of yourself, label easilly what you feel and according to it, create a phrase and a picture using your mood. Second time on contest, got to semifinals on Mexico's first Codelaunch.",
     "src": "https://www.youtube.com/embed/w_4s3A65Iss",
     "link": [
       {
@@ -84,7 +84,7 @@
     "title": "Sonora GDG, and others in Mexico",
     "category": "AI Speaker",
     "year": 2023,
-    "description": "Gave talks for Sonora, Guerrero, Querétaro and others about different topics, from my experience developing a high demand project in Japan and teaching how to reduce Development time from 45 days to 7 days to how to use Vertex AI to create an LLM app.",
+    "description": "Invited in Sonora, Guerrero, Querétaro, and other mexican states to talk about different topics, from my experience developing a high demand project in Japan; teaching how to reduce Development time from 45 days to 7 days; how to use Vertex AI to create an LLM app; and my own personal projects.",
     "src": "https://www.youtube.com/embed/AJ1rG6ZATP4",
     "link": [
       {
@@ -101,7 +101,7 @@
     "title": "IEU Marketing Analysis",
     "category": "Digital Marketing",
     "year": 2023,
-    "description": "IEU University required a solution that could transform unstructured data into insights about the college. We presented a solution that used Vector similarity using Embedding models, Markov Chains, and Emotion Detection.",
+    "description": "IEU University is a full Online University with growing prestige; required a solution that could transform unstructured data into insights about the college performance. Presented a solution that used Vector similarity using Embedding models, Markov Chains, and Emotion Detection to synthesize and analyse 11 thousand registries in 20 seconds.",
     "src": "./playground_assets/ieu.png",
     "link": [
       {
@@ -114,7 +114,7 @@
     "title": "AI-Based automatic idea generator for social media",
     "category": "Digital Marketing",
     "year": 2023,
-    "description": "This project is a Cloud AI-based automatic idea generator for social media made for the Japanese company The DECK in alliance with Mirai Innovation. Community managers become monotonous and may lack creativity when generating content for social media. Because of that, it was decided to develop a recommendation system based on engagement using Embedded Systems for vector similarity that generates interesting ideas that can be used for social media content. The project was retaken and redone in 7 days; creating a faster and computational cheaper solution to raise founding in Mexico.",
+    "description": "Project with national relevancy in Mexico. This project was a Cloud AI-based automatic idea generator for social media made for the Japanese company: The DECK. Community managers become monotonous and may lack creativity when generating content for social media. Because of that, we developed a recommendation system based on similarity and engagement using Embedded Systems for vector similarity + our own embedding model. The solution generated interesting ideas that fit popular topics in their social media + relevant topics and news. The project was retaken and redone in 7 days; creating a faster and computational cheaper solution to raise founding in Mexico. Mentioned by Secretaría de Educación Pública (SEP), Secretaria de Relaciones Exteriores, many TV news programs, newspapers and social media in Mexico.",
     "src": "https://www.youtube.com/embed/ZgW3N6i3PzE",
     "link": [
       {
@@ -131,7 +131,7 @@
     "title": "Brain Based dynamic art studio to generate Smart Contracts using emotional analysis",
     "category": "Research and Development",
     "year": 2023,
-    "description": "People often struggle expressing emotions and lack of time to spend in learning new techniques to do so. Moreover, modern technologies are difficult to use for the general audience in order to express meaningful ideas. Emerging technologies like AI Art generation, NFTs and Electro Encephalograms (EEG) lack in direction as they are used as the final outcome and not as a tool. We propose a Brain Machine Interface (BMI) Art Studio that transforms the environment with your emotions. So that, people can create art and save it in the blockchain. With the use of brainwaves people can paint in a Virtual Reality environment, transform their painting with Image2Image Generation using a description and the emotion they are feeling. The emotion detection is done with Resnet, a Time Series Classification state of art model that can identify 3 cognitive states (Positive, Neutral and Negative).",
+    "description": "People often struggle expressing emotions and lack of time to learn new techniques to do so. Moreover, modern technologies are difficult to master for the general audience in order to express meaningful ideas. This project gave meaning to AI Art, NFTs, and Electro Encephalograms (EEG); and direction to use them as a tool and not the end result. My Brain Machine Interface (BMI) Art Studio, transforms a VR environment and your paintings with your emotions. That way, people can create art by using their fellings, to later store them in the blockchain. With the use of AI, people can paint with image2image models, transform their final outcome with an emotion, and change their Virtual Reality Art studio with their mood. The emotion detection is done with a Time Series Classification that can identify 3 cognitive states (Positive, Neutral and Negative).",
     "src": "https://www.youtube.com/embed/1qFb25Dbn9c",
     "link": [
       {
@@ -144,7 +144,7 @@
     "title": "EMFUTECH 2022",
     "category": "Research and Development",
     "year": 2022,
-    "description": "EMFUTECH trainning program let's you learn from the best teachers in Japan about new emerging technologies and create innovative projects. Selected among 18 best from +80 applicants in 2022. Program duration: 3 Months. Being on workshops about: Robotics, Nanosatellites, Aerospace, Aerial-Earth-Aquatic Robots, AR, VR, Blockchain, Cloud computing, Design Thinking, Bioprinting, Nanotechnology, and Artificial Inteligence. Successfully completed two projects: Designed, Created, and Deployed an AI-Based automatic idea generator for social media, and a Brain Based dynamic art studio to generate NFT art for competition in 2023 in Europe.",
+    "description": "EMFUTECH trainning program let's you learn from the best teachers in Japan, Europe and Mexico about new emerging technologies and create innovative projects. Selected among 18 best from +80 applicants from Mexico in 2022. Being in Japan for 3 Months working on workshops about: Robotics, Nanosatellites, Aerospace, Aerial-Earth-Aquatic Robots, AR, VR, Blockchain, Cloud computing, Design Thinking, Bioprinting, Nanotechnology, Electroencephalograms, and Artificial Inteligence. Successfully completed two projects (achievement for first time someone does it in the program): Designed, Created, and Deployed an AI-Based automatic idea generator for social media (award winning), and a Brain Based dynamic art studio to generate NFT art.",
     "src": "https://www.youtube.com/embed/FvSprWxMHnU",
     "link": [
       {
@@ -157,7 +157,7 @@
     "title": "Text2Neo4j",
     "category": "Ciber Security",
     "year": 2022,
-    "description": "Process Tempo is a Graph data wharehouse and an Analytics Platform that brings value to data using graph databases, linking data in a no traditional way. 80% of the time was used in analyzing and creating dashboards, KPI’s and migrating all data on a Cloud based environment. Worked for Ford Motor Company and leading Cyber security “React First” use case, adding value through NLP solutions such as Text to Code generation or Personal Identificable Information (PII) Detection to avoid data breaches.",
+    "description": "Process Tempo is a Graph data wharehouse and an Analytics Platform that brings value to data using graph databases, adding more meaning to their relationships. 80% of my time was used in analyzing and creating dashboards, KPI’s and migrating all data on a Cloud based environment, 20% doing R&D. We had as a client Ford Motor Company on the Cyber security “React First” use case. I added value to the company through NLP-NLG solutions such as Text2Code generation from text to Neo4j, doing natural report creation and interaction; and a Personal Identificable Information (PII) Detector to avoid data breaches on APIs.",
     "src": "./playground_assets/text-to-code.jpg",
     "link": [
       {
@@ -170,7 +170,7 @@
     "title": "Creolio",
     "category": "Education",
     "year": 2021,
-    "description": "The idea behind creolio resides that students learn a new language by teaching the most frequent words first. This project is created for people who want to learn new languages from scratch by learning through repetition the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics to decide over the frequency of the words.",
+    "description": "Anuka's second project. The idea behind creolio resides that students learn a new language by teaching the most frequent words first. This project is created for people who want to learn new languages from scratch by learning, through spaced repetition, the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics and NLP techniques to decide user learning rates and which words to display.",
     "src": "./playground_assets/creolio.jpg",
     "link": [
       {
@@ -183,7 +183,7 @@
     "title": "Lia - La Inteligencia Artificial",
     "category": "Research and Development",
     "year": "2020-2021",
-    "description": "Anuka is a Language Learning startup that provides an environment for medium to advance language learners using Natural Language Processing. According to context, delivered grammar examples, lematization, synonyms, and exercises. Based on Spaced Repetition users could learn faster and at their own pace. They required to decrease the memory consumption of certain Spacy modules looking for state of the art solutions. Lead R&D for 3 months. Lia is the result of combining Facebook chats and GPT-2. My first entrance into NLP and LLMs.",
+    "description": "I first started working for Anuka, a Language Learning startup that provides an environment for medium to advance language learners using Natural Language Processing. According to context, delivered grammar examples, lematization, synonyms, and exercises. Based on Spaced Repetition users could learn faster and at their own pace. They required to decrease the memory consumption of certain Spacy modules, which led to researching for state of the art solutions. Lead R&D for 3 months and created Lia. The result of combining Facebook chats and GPT-2 open source model. My first entrance into NLP and LLMs. Allowed to learn limitations and capabilities from transformers, use and consumptions of data and resources.",
     "src": "https://www.youtube.com/embed/GRFLl9qk8Cc",
     "link": [
       {
