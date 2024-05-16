@@ -33,7 +33,7 @@
     "title": "NASA AI HACKATHON",
     "category": "Nasa Space Missions",
     "year": 2023,
-    "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and judged by means of a virtual assistant. Lead 5 people team building oir own knowledge graph within a 24 hours.",
+    "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and judged by means of a virtual assistant. Lead 5 people team building our own knowledge graph within 24 hours.",
     "src": "./playground_assets/galactic.jpg",
     "link": [
       {
