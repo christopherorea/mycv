@@ -4,18 +4,17 @@ const Banner = () => {
             <h1 className="home-text05">Who is Christopher Orea?</h1>
             <span className="home-text06">
                 <span className="home-text07">
-                    I'm a natural language processing and generation expert with a
-                    passion for research and development with Full-Stack developer 
-                    experience in Python and ReactJs. Bachelor's degree
-                    in Data Science from Universidad IEU.
+                    I'm an AI Advisor with great experience on Natural Language Processing and
+                    Generation. Bachelor's degree in Data Science from Universidad IEU. I have
+                    been invited to multiple talks in Mexico, Japan, Colombia and Chile
+                    with great focus on teaching and mentorship tech teams.
                 </span>
                 <br className="home-text08" />
                 <br className="home-text09" />
                 <span className="home-text10">
-                    I'm also an entrepreneur
-                    and an artificial intelligence consultant, helping businesses and
+                    I'm also an entrepreneur, CEO of Consultor-IA, helping businesses and
                     individuals leverage the power of AI to achieve their goals and
-                    improve their performance.
+                    improve their performance with great focus on security, ethics and fair use.
                 </span>
                 <br className="home-text11" />
                 <br className="home-text12" />
