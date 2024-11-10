@@ -25,7 +25,7 @@ const Banner = () => {
                 </span>
             </span>
         </div>
-        <img alt="me" src="./playground_assets/Chris.png" className="home-image" />
+        <img alt="me" src="./playground_assets/chris-1000h.jpg" className="home-image" />
     </div>
     )
 };
