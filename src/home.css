@@ -290,7 +290,7 @@ iframe, .lazy-loaded{
   height: 550px;
   justify-content: center;
   width: 40%;
-  background-image: url("/public/playground_assets/banner.jpg");
+  background-image: url("/public/playground_assets/Chris.png");
 }
 .home-banner {
   display: flex;
