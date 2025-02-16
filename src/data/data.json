@@ -2,8 +2,8 @@
   {
     "title": "AI POC Developer",
     "category": "Research and Development",
-    "year": 2024,
-    "description": "Working for LSEG, I was part of the Pattern Library Engineering group. We facilitated Cloud Arquitecture to the company. Leading AI development with LLMs. Managed to deliver a POC solution of RAG with Neo4j + LLM using Vector indexing. The result was a research on time/cost improvements using LLMs + development of a Search + Recommendation Engine with data reasoning. Done within a month.",
+    "year": 2024, 
+    "description":"At LSEG (London Stock Exchange Group), within the Pattern Library Engineering team, I spearheaded the integration of cloud architecture and led the development of AI solutions leveraging Large Language Models (LLMs). My key achievement was the delivery of a proof-of-concept Retrieval-Augmented Generation (RAG) system using Neo4j as the knowledge graph database and an LLM for natural language understanding and generation. This involved implementing vector indexing for efficient retrieval of relevant information. The successful POC led to a research study focused on quantifying the time and cost benefits of utilizing LLMs for search and data analysis. Furthermore, I developed a search and recommendation engine that incorporated data reasoning capabilities, enabling more intelligent and context-aware results. This project was completed within a tight one-month timeframe.",
     "src": "./playground_assets/lseg.png",
     "link": [
       {
@@ -16,7 +16,7 @@
     "title": "AI Consultant",
     "category": "Research and Development",
     "year": 2023,
-    "description": "Working as an AI advisor, making use of Large Language Models (LLMs) to create innovative solutions and preexisting Deep Neural Network architectures to save costs and efficiency for clients: like finding the best candidates to a any position on H.R.; continuing a Tex2Code solution into a full LLM on prem solution; enhancing laws aproach for mexians crafting our own law database; and creating customized news reporting using text categorization and generative-AI to create a fully automated news program from 5 hours to 5 mins.",
+    "description": "As an AI consultant, I partnered with various clients to develop and deploy cutting-edge AI solutions tailored to their specific needs. I specialized in leveraging the power of LLMs and deep neural network architectures to create innovative and cost-effective applications. Some notable examples include:HR Candidate Selection System: Developed an AI-powered system that analyzed resumes, job descriptions, and other relevant data to identify the most qualified candidates for any given position, streamlining the recruitment process and improving hiring efficiency.Text-to-Code to On-Premise LLM Solution: Transformed an existing text-to-code solution into a fully functional, on-premise LLM deployment, empowering clients to generate code from natural language descriptions, accelerating software development and reducing manual effort.Enhanced Legal Research for Mexican Citizens: Created a custom legal database enriched with AI capabilities, enabling Mexican citizens to easily access and understand complex legal information, fostering greater transparency and access to justice.Automated News Reporting: Developed a system that leverages text categorization and generative AI to create fully automated news reports, reducing the time required for news production from 5 hours to just 5 minutes, significantly improving efficiency and content delivery speed",
     "src": "./playground_assets/aitana.png",
     "link": [
       {
@@ -33,7 +33,7 @@
     "title": "NASA AI HACKATHON",
     "category": "Nasa Space Missions",
     "year": 2023,
-    "description": "We developed a RAG hash methodology for resource consumption and procedures stipulated by NASA related to the safety of the crew on a mission. The standards and sensors of the ship are compared and judged by means of a virtual assistant. Lead 5 people team building our own knowledge graph within 24 hours.",
+    "description": "Participating in the NASA AI Hackathon, I led a team of 5 in developing a novel RAG-based methodology for evaluating resource consumption and ensuring adherence to NASA's stringent safety protocols for crewed space missions. Our solution employed a virtual assistant that could intelligently compare ship standards and sensor readings against established guidelines, providing real-time feedback and alerts. To achieve this, we built a custom knowledge graph within an impressive 24-hour timeframe, demonstrating our ability to rapidly develop and deploy complex AI systems under pressure.",
     "src": "./playground_assets/galactic.jpg",
     "link": [
       {
