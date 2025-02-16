@@ -46,7 +46,7 @@
     "title": "Mirai Innovation Representative",
     "category": "Research and Development",
     "year": 2023,
-    "description": "Mirai Innovation is an R&D company, leaders in Neuroscience Research in Mexico with presence in Japan. Invited to work as an AI mentor, and speaker in events, news media interviews, congresses, and universities in Mexico. Leading development of AI applications for Government. Invited to Japan to give +10 Workshops in EMFUTECH 2023, covering topics from Ethical AI, Machine Learning, Reinforcement Learning, Deep Learning, Computer Vision, Natural Language Processing and Generation with LLM, and MLOps.",
+    "description": "Serving as an AI mentor and speaker for Mirai Innovation, a prominent R&D company specializing in neuroscience with a global presence in Mexico and Japan, I engaged in various activities, including participating in events, conducting media interviews, presenting at conferences, and delivering university lectures across Mexico. I also spearheaded the development of AI applications for the Mexican government, contributing to the advancement of AI adoption in the public sector. Additionally, I was invited to Japan to conduct over 10 workshops at EMFUTECH 2023, where I shared my expertise on a wide range of AI topics, including Ethical AI, Machine Learning, Reinforcement Learning, Deep Learning, Computer Vision, Natural Language Processing and Generation with LLMs, and MLOps.",
     "src": "https://www.youtube.com/embed/I8s1B7-Ra9o",
     "link": [
       {
@@ -67,7 +67,7 @@
     "title": "FruitFul Life",
     "category": "Psicology",
     "year": 2023,
-    "description": "Fruitful Life is our proposal to understand emotional trends from users and help them through advices, motivational phrases and delivering a way to connect with oneself giving a name to what you feel. We want to help as many people as possible, giving suicide and depression awareness. You can check your feelings with facial emotional recognition. With a picture of yourself, label easilly what you feel and according to it, create a phrase and a picture using your mood. Second time on contest, got to semifinals on Mexico's first Codelaunch.",
+    "description": "Fruitful Life is a passion project aimed at leveraging AI to understand and support individuals' emotional well-being. The project focuses on identifying emotional trends and providing personalized advice, motivational content, and tools for self-reflection. With a strong emphasis on suicide and depression awareness, the app empowers users to easily identify their feelings through facial emotion recognition technology, create personalized phrases and images that reflect their mood, and connect with resources for support. Fruitful Life achieved significant recognition by reaching the semifinals of Mexico's first Codelaunch competition, highlighting its potential to make a positive impact on mental health.",
     "src": "https://www.youtube.com/embed/w_4s3A65Iss",
     "link": [
       {
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "title": "Sonora GDG, and others in Mexico",
+    "title": "Sonora and Queretaro GDG, and others in Mexico",
     "category": "AI Speaker",
     "year": 2023,
     "description": "Invited in Sonora, Guerrero, Querétaro, and other mexican states to talk about different topics, from my experience developing a high demand project in Japan; teaching how to reduce Development time from 45 days to 7 days; how to use Vertex AI to create an LLM app; and my own personal projects.",
