@@ -4,18 +4,12 @@ const Banner = () => {
             <h1 className="home-text05">Who is Christopher Orea?</h1>
             <span className="home-text06">
                 <span className="home-text07">
-                    I'm an AI Advisor with great experience on Natural Language Processing and
-                    Generation. Bachelor's degree in Data Science from Universidad IEU. I have
-                    been invited to multiple talks in Mexico, Japan, Colombia and Chile
-                    with great focus on teaching and mentorship tech teams.
-                </span>
+                    Throughout his career, Christopher Orea has established himself as a data scientist and AI expert with a strong track record in developing and implementing innovative solutions across various industries. His primary focus is on natural language processing (NLP), large language models (LLMs), and the entire AI lifecycle, from data collection and preprocessing to model development and deployment. He has successfully collaborated with multidisciplinary teams, including government agencies and multinational corporations, consistently delivering impactful results that exceed expectations.
+</span>
                 <br className="home-text08" />
                 <br className="home-text09" />
                 <span className="home-text10">
-                    I'm also an entrepreneur, Co-founder of Consultor-IA, Co-founder of
-                    Workflow and CEO of Lexcore AI, my work is to help businesses and
-                    individuals to leverage the power of AI to achieve their goals and
-                    improve their performance with great focus on security, ethics and fair use.
+                    His passion for building multicultural teams and fostering collaborative work environments has enabled him to lead complex projects and achieve exceptional outcomes. His experience in solving technical problems and his ability to communicate complex ideas clearly and concisely have made him a valuable member of any team.  We are confident that his commitment to excellence, adaptability, and focus on delivering cutting-edge AI solutions will enable him to contribute significantly to the success of our organization.
                 </span>
             </span>
         </div>
