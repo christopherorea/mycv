@@ -84,7 +84,7 @@
     "title": "Sonora and Queretaro GDG, and others in Mexico",
     "category": "AI Speaker",
     "year": 2023,
-    "description": "Invited in Sonora, Guerrero, Querétaro, and other mexican states to talk about different topics, from my experience developing a high demand project in Japan; teaching how to reduce Development time from 45 days to 7 days; how to use Vertex AI to create an LLM app; and my own personal projects.",
+    "description": "As a sought-after AI speaker, I had the privilege of sharing my knowledge and experiences with diverse audiences across Mexico, including events organized by Sonora GDG and other groups in various states such as Sonora, Guerrero, and Querétaro. My speaking engagements covered a wide range of topics, drawing from my professional journey, including developing high-demand projects in Japan, optimizing software development processes to reduce time-to-market, leveraging Vertex AI for building LLM-powered applications, and showcasing my personal AI projects.",
     "src": "https://www.youtube.com/embed/AJ1rG6ZATP4",
     "link": [
       {
@@ -101,7 +101,7 @@
     "title": "IEU Marketing Analysis",
     "category": "Digital Marketing",
     "year": 2023,
-    "description": "IEU University is a full Online University with growing prestige; required a solution that could transform unstructured data into insights about the college performance. Presented a solution that used Vector similarity using Embedding models, Markov Chains, and Emotion Detection to synthesize and analyse 11 thousand registries in 20 seconds.",
+    "description": "For IEU University, a rapidly growing online university, I developed a sophisticated solution to transform unstructured data into actionable insights about the institution's performance. This involved utilizing vector similarity techniques with embedding models, Markov chains, and emotion detection to efficiently analyze a substantial dataset of 11,000 records in just 20 seconds. The resulting insights provided IEU University with valuable information for strategic decision-making and continuous improvement.",
     "src": "./playground_assets/ieu.png",
     "link": [
       {
@@ -114,7 +114,7 @@
     "title": "AI-Based automatic idea generator for social media",
     "category": "Digital Marketing",
     "year": 2023,
-    "description": "Project with national relevancy in Mexico. This project was a Cloud AI-based automatic idea generator for social media made for the Japanese company: The DECK. Community managers become monotonous and may lack creativity when generating content for social media. Because of that, we developed a recommendation system based on similarity and engagement using Embedded Systems for vector similarity + our own embedding model. The solution generated interesting ideas that fit popular topics in their social media + relevant topics and news. The project was retaken and redone in 7 days; creating a faster and computational cheaper solution to raise founding in Mexico. Mentioned by Secretaría de Educación Pública (SEP), Secretaria de Relaciones Exteriores, many TV news programs, newspapers and social media in Mexico.",
+    "description": "This project garnered national recognition in Mexico and was developed for The DECK, a Japanese company. The primary objective was to address the challenge of monotonous content creation faced by social media community managers. Our AI-powered solution automatically generates fresh and engaging social media content ideas by leveraging similarity and engagement analysis through embedded systems and a custom-built embedding model. The system intelligently produces relevant ideas aligned with popular and trending topics, empowering community managers to create more impactful content. The project's success led to its re-engineering for enhanced speed and cost-effectiveness, securing further funding in Mexico. Notably, the project received widespread attention and was featured by prominent organizations such as the Secretaría de Educación Pública (SEP), the Secretaría de Relaciones Exteriores, and numerous news outlets and social media platforms across Mexico.",
     "src": "https://www.youtube.com/embed/ZgW3N6i3PzE",
     "link": [
       {
