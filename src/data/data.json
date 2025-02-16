@@ -131,7 +131,7 @@
     "title": "Brain Based dynamic art studio to generate Smart Contracts using emotional analysis",
     "category": "Research and Development",
     "year": 2023,
-    "description": "People often struggle expressing emotions and lack of time to learn new techniques to do so. Moreover, modern technologies are difficult to master for the general audience in order to express meaningful ideas. This project gave meaning to AI Art, NFTs, and Electro Encephalograms (EEG); and direction to use them as a tool and not the end result. My Brain Machine Interface (BMI) Art Studio, transforms a VR environment and your paintings with your emotions. That way, people can create art by using their fellings, to later store them in the blockchain. With the use of AI, people can paint with image2image models, transform their final outcome with an emotion, and change their Virtual Reality Art studio with their mood. The emotion detection is done with a Time Series Classification that can identify 3 cognitive states (Positive, Neutral and Negative).",
+    "description": "This innovative project seamlessly blends art, AI, and neuroscience to create a unique and expressive experience. It addresses the common challenge of individuals struggling to express their emotions effectively by providing a virtual reality environment where users can create dynamic art based on their feelings. The system utilizes a sophisticated emotion detection model and generative AI techniques to translate emotions into artistic expressions. The resulting art pieces can then be stored as NFTs on the blockchain, opening up new creative possibilities in the realm of digital art.",
     "src": "https://www.youtube.com/embed/1qFb25Dbn9c",
     "link": [
       {
@@ -144,7 +144,7 @@
     "title": "EMFUTECH 2022",
     "category": "Research and Development",
     "year": 2022,
-    "description": "EMFUTECH trainning program let's you learn from the best teachers in Japan, Europe and Mexico about new emerging technologies and create innovative projects. Selected among 18 best from +80 applicants from Mexico in 2022. Being in Japan for 3 Months working on workshops about: Robotics, Nanosatellites, Aerospace, Aerial-Earth-Aquatic Robots, AR, VR, Blockchain, Cloud computing, Design Thinking, Bioprinting, Nanotechnology, Electroencephalograms, and Artificial Inteligence. Successfully completed two projects (achievement for first time someone does it in the program): Designed, Created, and Deployed an AI-Based automatic idea generator for social media (award winning), and a Brain Based dynamic art studio to generate NFT art.",
+    "description": "EMFUTECH is a prestigious training program focused on emerging technologies. I was selected as one of the top 18 participants out of over 80 applicants from Mexico in 2022. During my 3-month stay in Japan, I immersed myself in intensive workshops covering a wide spectrum of cutting-edge technologies, including Robotics, Nanosatellites, Aerospace, Aerial-Earth-Aquatic Robots, Augmented Reality (AR), Virtual Reality (VR), Blockchain, Cloud Computing, Design Thinking, Bioprinting, Nanotechnology, Electroencephalograms (EEGs), and Artificial Intelligence. I achieved the distinction of successfully completing two projects during the program, a feat rarely accomplished by participants. These projects included the design, creation, and deployment of an award-winning AI-based automatic idea generator for social media and the development of a brain-based dynamic art studio for generating NFT art.",
     "src": "https://www.youtube.com/embed/FvSprWxMHnU",
     "link": [
       {
@@ -157,7 +157,7 @@
     "title": "Text2Neo4j",
     "category": "Ciber Security",
     "year": 2022,
-    "description": "Process Tempo is a Graph data wharehouse and an Analytics Platform that brings value to data using graph databases, adding more meaning to their relationships. 80% of my time was used in analyzing and creating dashboards, KPI’s and migrating all data on a Cloud based environment, 20% doing R&D. We had as a client Ford Motor Company on the Cyber security “React First” use case. I added value to the company through NLP-NLG solutions such as Text2Code generation from text to Neo4j, doing natural report creation and interaction; and a Personal Identificable Information (PII) Detector to avoid data breaches on APIs.",
+    "description": "At Process Tempo, a graph data warehouse and analytics platform, I played a key role in analyzing data, creating interactive dashboards and KPIs, and migrating data to a cloud-based environment. For Ford Motor Company, a client utilizing the React First cybersecurity framework, I developed NLP-NLG solutions such as Text2Code for generating Neo4j queries from natural language text, automated natural report creation and interaction, and a Personal Identifiable Information (PII) Detector to prevent data breaches in APIs.",
     "src": "./playground_assets/text-to-code.jpg",
     "link": [
       {
@@ -170,7 +170,7 @@
     "title": "Creolio",
     "category": "Education",
     "year": 2021,
-    "description": "Anuka's second project. The idea behind creolio resides that students learn a new language by teaching the most frequent words first. This project is created for people who want to learn new languages from scratch by learning, through spaced repetition, the most frequent words to the least frequent using songs, books and other media of their choice. The system is designed fully in Django with a MVC architecture, and powered with data analytics and NLP techniques to decide user learning rates and which words to display.",
+    "description": "Creolio is an innovative language learning platform designed with the principle that students learn a new language more effectively by focusing on the most frequently used words first. It caters to individuals who are starting their language learning journey from scratch, employing spaced repetition techniques to reinforce learning of the most to least frequent words through various media such as songs, books, and user-selected content. The system is built using the Django framework with an MVC architecture and incorporates data analytics and NLP techniques to personalize user learning rates and optimize word presentation.",
     "src": "./playground_assets/creolio.jpg",
     "link": [
       {
@@ -183,7 +183,7 @@
     "title": "Lia - La Inteligencia Artificial",
     "category": "Research and Development",
     "year": "2020-2021",
-    "description": "I first started working for Anuka, a Language Learning startup that provides an environment for medium to advance language learners using Natural Language Processing. According to context, delivered grammar examples, lematization, synonyms, and exercises. Based on Spaced Repetition users could learn faster and at their own pace. They required to decrease the memory consumption of certain Spacy modules, which led to researching for state of the art solutions. Lead R&D for 3 months and created Lia. The result of combining Facebook chats and GPT-2 open source model. My first entrance into NLP and LLMs. Allowed to learn limitations and capabilities from transformers, use and consumptions of data and resources.",
+    "description": "At Anuka, a language learning startup, I developed Lia, an AI-powered chatbot that provides contextually relevant grammar examples, lemmatization, synonyms, and exercises to language learners. By leveraging spaced repetition, Lia facilitates faster and more personalized learning experiences. A key challenge I addressed was reducing the memory consumption of certain Spacy modules, leading me to research and implement state-of-the-art solutions. This project marked my initial foray into the world of Natural Language Processing (NLP) and Large Language Models (LLMs), providing valuable insights into the capabilities and limitations of transformers and the effective utilization of data and resources in NLP.",
     "src": "https://www.youtube.com/embed/GRFLl9qk8Cc",
     "link": [
       {
