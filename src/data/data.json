@@ -1,31 +1,44 @@
 [
   {
-    "title": "AI POC Developer",
-    "category": "Research and Development",
-    "year": 2024, 
-    "description":"At LSEG (London Stock Exchange Group), within the Pattern Library Engineering team, I spearheaded the integration of cloud architecture and led the development of AI solutions leveraging Large Language Models (LLMs). My key achievement was the delivery of a proof-of-concept Retrieval-Augmented Generation (RAG) system using Neo4j as the knowledge graph database and an LLM for natural language understanding and generation. This involved implementing vector indexing for efficient retrieval of relevant information. The successful POC led to a research study focused on quantifying the time and cost benefits of utilizing LLMs for search and data analysis. Furthermore, I developed a search and recommendation engine that incorporated data reasoning capabilities, enabling more intelligent and context-aware results. This project was completed within a tight one-month timeframe.",
-    "src": "./playground_assets/lseg.png",
-    "link": [
-      {
-        "src": "https://medium.com/@thcookieh/how-i-created-a-neo4j-search-engine-with-generative-ai-98b43cf8ec1e",
-        "text": "RAG POC for LSEG"
-      }
-    ]
-  },
+  "title": "MCP-Client-OpenSource",
+  "category": "LATAM AI",
+  "year": 2025,
+  "description": "Developed under Consultor-IA.tech, this open-source MCP client enables custom AI agents to run on any device with a strong focus on privacy and security. Fully customizable and distributed, it integrates seamlessly with any workflow and supports LLMs like Gemini.",
+  "src": "https://media.licdn.com/dms/image/v2/D4E22AQFFSg6zHO5UiQ/feedshare-shrink_800/B4EZexaCr9G4Ao-/0/1751028091337?e=1754524800&v=beta&t=SVxu17fLoR6qsEl7jKp9Va-6dmsOpuw5GkoOTG4Gu4s",
+  "link": [
+    {
+      "src": "https://lnkd.in/eguYJ3sF",
+      "text": "Live Demo"
+    },
+    {
+      "src": "https://lnkd.in/eZsz-6P4",
+      "text": "Documentation"
+    }
+  ]
+},
   {
-    "title": "AI Consultant",
-    "category": "Research and Development",
+  "title": "Backend Developer",
+  "category": "LSEG",
+  "year": 2023,
+  "description": "Developed a Retrieval-Augmented Generation (RAG) system to avoid code duplication and help developers find relevant solutions. Promoted and contributed to a RAG proof of concept leveraging knowledge graphs and large language models (LLMs). Authored documentation on how to integrate LLMs with Neo4j.",
+  "src": "https://media.licdn.com/dms/image/C4E0BAQFbvN7ZxvT2CQ/company-logo_100_100/0/1650559162155?e=1756944000&v=beta&t=iqYs6DNwTw0H52gMCWv_Jcwc2tBDDe6zK_2FqX5hYxw",
+  "link": [
+    {
+      "src": "https://medium.com/@thcookieh/how-i-created-a-neo4j-search-engine-with-generative-ai-98b43cf8ec1e",
+      "text": "POC Documentation - Own resources"
+    }
+  ]
+},
+  {
+    "title": "Cofounder",
+    "category": "Consultor-IA",
     "year": 2023,
-    "description": "As an AI consultant, I partnered with various clients to develop and deploy cutting-edge AI solutions tailored to their specific needs. I specialized in leveraging the power of LLMs and deep neural network architectures to create innovative and cost-effective applications. Some notable examples include:HR Candidate Selection System: Developed an AI-powered system that analyzed resumes, job descriptions, and other relevant data to identify the most qualified candidates for any given position, streamlining the recruitment process and improving hiring efficiency.Text-to-Code to On-Premise LLM Solution: Transformed an existing text-to-code solution into a fully functional, on-premise LLM deployment, empowering clients to generate code from natural language descriptions, accelerating software development and reducing manual effort.Enhanced Legal Research for Mexican Citizens: Created a custom legal database enriched with AI capabilities, enabling Mexican citizens to easily access and understand complex legal information, fostering greater transparency and access to justice.Automated News Reporting: Developed a system that leverages text categorization and generative AI to create fully automated news reports, reducing the time required for news production from 5 hours to just 5 minutes, significantly improving efficiency and content delivery speed",
-    "src": "./playground_assets/aitana.png",
+    "description": "Generated around half a million pesos in two-year work on AI-related projects from software development to AI consultancy and teaching. Built a multidisciplinary team to deliver solutions for businesses and professionals in Latin America. Collaborated with JhedAl and CENIA to develop Spanish-language LLMs and provide consultancy on their implementation and helped for project developments on international AI products. Led the development of Xook AI, a media digitization platform with features including news categorization, generative video creation, an interactive web app, and a WhatsApp bot newsletter, saving up to 1 million pesos in return of investment. Developed a suicide and depression awareness app with emotional face detection and reached semifinals at the Code Launch Mexico hackathon. Developed a law facilitator SaaS using Knowledge Graph RAGs for Latin America with direct integration with court resolutions, tested for Mexico and Venezuela. Implemented data infrastructure and AI solutions for human resources and marketing projects using semantic search, GPT models, VertexAI, and HuggingFace. Helped Process Tempo to implement a 100% functional LLM system for text-to-report creation. Participated in Google Developer Groups, universities, and forums in Mexico, Colombia, and Chile. Participated as juror on two Tecnológico de Monterrey events like Hult Prize and Fin4All on Querétaro campus. Worked alongside Bloom Legal on CRM Development. Provided consultancy to technological projects in Yucatán, Querétaro, Ciudad de México, Sonora, San Luis Potosí, and supported international projects in Chile, Colombia, Peru, and Ecuador on AI audits from legal and ethical perspectives.",
+    "src": "https://media.licdn.com/dms/image/v2/D4E0BAQFRqPIwmVQO0w/company-logo_100_100/0/1710884351612?e=1756944000&v=beta&t=W8FqTdBQqj7PcGxgTBo8_kzT64fcZvmcH1CP5IfGXUY",
     "link": [
       {
-        "src": "https://medium.com/@thcookieh/aitana-a-generative-ai-success-story-34db2972c0fb",
-        "text": "Aitana News Project"
-      },
-      {
-        "src": "https://www.youtube.com/watch?v=N91gM0kUHP4&list=PLnv6QfOebpsKsf9tSfjA0aMZye8NEKsoN&index=5&t=127s&ab_channel=Ciadet",
-        "text": "CIADET - Colombia interview"
+        "src": "https://www.linkedin.com/company/consultor-ia-tech",
+        "text": "Consultor-IA.tech"
       }
     ]
   },
