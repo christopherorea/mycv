@@ -21,7 +21,7 @@
   "category": "LSEG",
   "year": 2023,
   "description": "Developed a Retrieval-Augmented Generation (RAG) system to avoid code duplication and help developers find relevant solutions. Promoted and contributed to a RAG proof of concept leveraging knowledge graphs and large language models (LLMs). Authored documentation on how to integrate LLMs with Neo4j.",
-  "src": "https://media.licdn.com/dms/image/C4E0BAQFbvN7ZxvT2CQ/company-logo_100_100/0/1650559162155?e=1756944000&v=beta&t=iqYs6DNwTw0H52gMCWv_Jcwc2tBDDe6zK_2FqX5hYxw",
+  "src": "./playground_assets/lseg.png",
   "link": [
     {
       "src": "https://medium.com/@thcookieh/how-i-created-a-neo4j-search-engine-with-generative-ai-98b43cf8ec1e",
@@ -34,7 +34,7 @@
     "category": "Consultor-IA",
     "year": 2023,
     "description": "Generated around half a million pesos in two-year work on AI-related projects from software development to AI consultancy and teaching. Built a multidisciplinary team to deliver solutions for businesses and professionals in Latin America. Collaborated with JhedAl and CENIA to develop Spanish-language LLMs and provide consultancy on their implementation and helped for project developments on international AI products. Led the development of Xook AI, a media digitization platform with features including news categorization, generative video creation, an interactive web app, and a WhatsApp bot newsletter, saving up to 1 million pesos in return of investment. Developed a suicide and depression awareness app with emotional face detection and reached semifinals at the Code Launch Mexico hackathon. Developed a law facilitator SaaS using Knowledge Graph RAGs for Latin America with direct integration with court resolutions, tested for Mexico and Venezuela. Implemented data infrastructure and AI solutions for human resources and marketing projects using semantic search, GPT models, VertexAI, and HuggingFace. Helped Process Tempo to implement a 100% functional LLM system for text-to-report creation. Participated in Google Developer Groups, universities, and forums in Mexico, Colombia, and Chile. Participated as juror on two Tecnológico de Monterrey events like Hult Prize and Fin4All on Querétaro campus. Worked alongside Bloom Legal on CRM Development. Provided consultancy to technological projects in Yucatán, Querétaro, Ciudad de México, Sonora, San Luis Potosí, and supported international projects in Chile, Colombia, Peru, and Ecuador on AI audits from legal and ethical perspectives.",
-    "src": "https://media.licdn.com/dms/image/v2/D4E0BAQFRqPIwmVQO0w/company-logo_100_100/0/1710884351612?e=1756944000&v=beta&t=W8FqTdBQqj7PcGxgTBo8_kzT64fcZvmcH1CP5IfGXUY",
+    "src": "./playground_assets/aitana.png",
     "link": [
       {
         "src": "https://www.linkedin.com/company/consultor-ia-tech",
