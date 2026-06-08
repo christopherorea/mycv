@@ -1,0 +1,657 @@
+
+{
+  "portfolio_metadata": {
+    "owner": "Christopher Orea",
+    "version": "4.3.0",
+    "last_updated": "2024-07",
+    "language": "en"
+  },
+  "profile": {
+    "name": "Christopher Orea",
+    "title": "AI/ML Executive & Strategic Consultant",
+    "tagline": "From Engineer to Strategist: Proven Leadership & Profitability in AI for the S&P500. Translating Theory to Measurable Business Value and Leading Teams with Direct Impact on Profitability.",
+    "location": "Merida, Yucatan, Mexico",
+    "availability": "Consulting & Enterprise Engagements",
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/chrisgalleta",
+      "github": "https://github.com/christopherorea",
+      "medium": "https://medium.com/@thcookieh",
+      "resume_url": "https://drive.google.com/file/d/1kPEabtYGZ4nx6ibjoBZMBm0enSb_8HWz/view"
+    },
+    "languages": [
+      "English (Bilingual)",
+      "Spanish (Native)",
+      "German (Limited Working)",
+      "Japanese (Limited Working)"
+    ]
+  },
+  "executive_summary": {
+    "philosophy": "As a Strategic AI Leader, I specialize in transforming technical uncertainty into auditable assets and scalable capabilities. I architect Agentic AI systems, Knowledge Graphs, and enterprise MLOps to turn fragmented initiatives into structured knowledge systems.",
+    "core_pillars": [
+      {
+        "concept": "Ontology Engineering & Explainable AI (xAI)",
+        "detail": "I design architectures where LLMs execute logical reasoning via Knowledge Graphs, turning ambiguous data into structured knowledge systems that enable agentic retrieval and eliminate uncertainty in critical enterprise decision-making."
+      },
+      {
+        "concept": "Agentic Systems & Enterprise Scaling",
+        "detail": "Operating across solution architecture and hands-on implementation, I lead the delivery of GenAI-enabled workflows and their robust scaling into federated infrastructures, ensuring technical continuity and long-term maintainability."
+      },
+      {
+        "concept": "AI Capability Building & Enablement",
+        "detail": "Beyond delivery, I design capability frameworks to intentionally grow AI maturity. This includes team structure principles and academy-style learning systems that improve delivery resilience and reduce dependency on single-point experts."
+      },
+      {
+        "concept": "Zero-Trust Governance & Technological Sovereignty",
+        "detail": "I establish rigorous governance frameworks, evaluation systems, and cybersecurity standards to shield data, optimize OPEX, and ensure AI investments yield a systemic reduction of technical debt."
+      }
+    ]
+  },
+  "case_studies": [
+    {
+      "id": "epc-knowledge-graph",
+      "slug": "epc-knowledge-graph",
+      "title": "Enterprise Knowledge Graph Platform",
+      "subtitle": "Transforming hyper-complex EPC documentation into deterministic semantic intelligence.",
+      "executive_summary": "Architected an enterprise-grade knowledge platform for Complex Engineering (EPC) data that eliminated structural hallucinations, dropped latency by 96%, and reduced costs by >99%.",
+      "paradigm_shift": "Transitioned from brittle, non-deterministic LLM models to a resilient, NLP-first semantic graph infrastructure.",
+      "kpis": [
+        { "label": "Latency", "before": "~248ms", "after": "~9ms", "impact": "⚡ 96% faster" },
+        { "label": "Cost per Project", "before": "$6.8M", "after": "$0.02", "impact": "💰 >99% savings" },
+        { "label": "Schema Coverage", "before": "73.7%", "after": "100%", "impact": "📊 Complete" }
+      ],
+      "role_and_ownership": [
+        "Owned complete semantic graph architecture and zero-orphan topology validation.",
+        "Architected deterministic spaCy-based NLP extraction engine.",
+        "Designed 13-specialist MCP server infrastructure for multi-agent validation.",
+        "Formulated data lineage preservation strategy raw text → extracted entities → graph nodes."
+      ],
+      "challenge": "Engineering, Procurement, and Construction (EPC) projects present hyper-complex documentation. Traditional RAG fails because flat vector embeddings lack contextual topology and regulatory rules. We needed to transform ambiguous text landscapes into auditable infrastructure.",
+      "solution_sections": [
+        {
+          "title": "NLP-First Extraction Pipeline",
+          "content": "Replaced zero-shot LLM extractions with a hardened processing pipeline using custom spaCy pipelines for engineering domain and NER for engineering taxonomies.",
+          "list": ["Deterministic extraction rules", "Typed immutable artifacts", "100% data auditability"]
+        },
+        {
+          "title": "MCP Infrastructure & Service Layer",
+          "content": "Built 13 specialized semantic tools exposed via dedicated MCP Server. Decoupled graph logic from consumption layer for safe query interface.",
+          "list": ["Graph traversal algorithms", "Automated validation rules", "Dynamic entity discovery"]
+        }
+      ],
+      "metrics_comparison": [
+        { "metric": "Latency", "before": "~248ms", "after": "~9ms", "change": "96% Faster" },
+        { "metric": "Op. Cost", "before": "$6.8M/run", "after": "$0.02/proj", "change": ">99% Savings" },
+        { "metric": "Schema", "before": "73.7%", "after": "100%", "change": "+26.3%" }
+      ],
+      "takeaways": [
+        "NLP-First Architecture eliminated hallucinations through deterministic parsing.",
+        "Foundation (topology) matters more than retrieval algorithms.",
+        "Agentic validation catches errors before production propagation.",
+        "MCP abstraction improved scalability and multi-agent safety."
+      ]
+    },
+    {
+      "id": "autonomous-ontology",
+      "slug": "autonomous-ontology",
+      "title": "Autonomous Ontology Framework",
+      "subtitle": "Reusable platform framework designed to automate enterprise ontology generation at scale.",
+      "executive_summary": "Developed an asset-agnostic framework that reduces time-to-production for enterprise ontologies from months to hours while ensuring 100% validation coverage.",
+      "paradigm_shift": "Replaced multi-month manual data modeling workshops with automated, multi-agent synthesis.",
+      "kpis": [
+        { "label": "Time-to-Production", "before": "Months", "after": "Hours", "impact": ">100x faster" },
+        { "label": "Schema Flexibility", "before": "Rigid", "after": "Infinite", "impact": "Dynamic Scale" },
+        { "label": "Error Rate", "before": "Variable", "after": "0%", "impact": "Zero Hallucination" }
+      ],
+      "role_and_ownership": [
+        "Owned end-to-end architecture from hybrid extraction to multi-agent protocols.",
+        "Designed MCP server infrastructure centralizing agent communication.",
+        "Formulated constraint auto-discovery engine replacing manual workshops.",
+        "Architected agnostic transport layer for RDF, OWL2, and Neo4j."
+      ],
+      "challenge": "Enterprise ontology creation suffered from semantic drift, unsustainable token burn, and unverified schema foundations. Organizations were forced to manually specify governance through costly workshops.",
+      "solution_sections": [
+        {
+          "title": "Hybrid Semantic Extraction",
+          "content": "Combines rule-based tokenization engines with contextual flexibility of highly structured LLM scoring for entity extraction with strict typing.",
+          "list": ["Full cardinality awareness", "Real-time disambiguation", "Typed entity mapping"]
+        },
+        {
+          "title": "Agentic Graph Refinement",
+          "content": "Internal ecosystem with 3 core agents: Traversal, Validation, and Scoring, communicating via Model Context Protocol.",
+          "list": ["Semantic continuity analysis", "Automated constraint enforcement", "Structural health monitoring"]
+        }
+      ],
+      "metrics_comparison": [
+        { "metric": "Dev Cycle", "before": "Months", "after": "Hours", "change": ">100x Acceleration" },
+        { "metric": "Validation", "before": "Manual/Partial", "after": "Automated/100%", "change": "0% Miss Rate" },
+        { "metric": "Deployment", "before": "Weeks", "after": "Hours", "change": "168x Faster" }
+      ],
+      "takeaways": [
+        "Reusable across any domain; asset-agnostic design.",
+        "Built-in governance through automated constraint discovery.",
+        "Self-correcting systems catch issues before ingestion.",
+        "Multi-store support (RDF, OWL2, Neo4j) from a single source."
+      ]
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "EY",
+      "role": "Senior Databricks AI & Data Engineer / Consultant",
+      "period": "July 2025 - Present",
+      "src":"https://raw.githubusercontent.com/christopherorea/mycv/refs/heads/master/public/playground_assets/Ontology.png",
+      "description": "Working across enterprise AI and knowledge-system initiatives focused on ontology engineering, knowledge graphs, agentic retrieval, and scalable solution design in Fortune 500 environments. My role spans technical architecture, delivery stabilization, reusable accelerators, and capability-building for long-term enterprise adoption.",
+      "achievements": [
+        "Designed and stabilized ontology and knowledge graph solutions, improving semantic consistency, scalability, reuse, and maintainability.",
+        "Designed and implemented agentic retrieval over knowledge graphs, enabling LLM-driven navigation, multi-step reasoning, and structured answer generation.",
+        "Built controlled evaluation frameworks that improved answer quality from ~6.8 to ~9.0+ and supported near-production AI delivery (TRL 6).",
+        "Developed accelerators and reusable assets that reduced manual effort and improved delivery readiness.",
+        "Designed AI/ML/GenAI capability blueprints spanning team structure, competency models, profile development, and scalable delivery patterns.",
+        "Structured academy-style enablement for Databricks and GenAI adoption, combining architecture foundations, project-based learning, deployment practices, and mentoring.",
+        "Defined autonomy-oriented learning systems to reduce dependency on single-point experts and improve long-term delivery resilience."
+      ]
+    },
+    {
+      "company": "Consultor-IA.tech",
+      "role": "Co-founder & Principal AI Consultant",
+      "period": "January 2023 - July 2025",
+      "description": "Founded and led a multidisciplinary team to deliver AI transformation and monetization strategies across Latin America, assuming full ownership of vision, strategy, and execution for international clients.",
+      "src":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*M9WLen-vqtTwsZvueLBv0Q.jpeg",
+      "achievements": [
+        "Generated $500k MXN in revenue through software development, AI consultancy, and technical training within a 2-year cycle.",
+        "Led the development of Xook AI (Media Digitization & Generative Video), delivering a verified $1M MXN ROI through automation.",
+        "Collaborated with CENIA and JhedAl on Spanish-language LLM development and strategic consultancy for international AI products.",
+        "Built and managed a multidisciplinary team to deliver data infrastructure and AI solutions for HR and Marketing (VertexAI, HuggingFace).",
+        "Engineered a Graph-RAG SaaS for the legal sector in MX and VE, integrating direct court resolution data for verified facilitation.",
+        "Provided AI auditing and ethical consultancy for high-level projects across Mexico (CDMX, Queretaro, Yucatan) and LATAM (Chile, Colombia, Peru).",
+        "Delivered strategic talks to 1,500+ professionals and authored 60+ technical blogs reaching 30,000+ readers annually.",
+        "Reached semifinals at the inaugural Code Launch Mexico with an AI-driven mental health awareness app, securing validated feedback from 14 active users.",
+        "Advised Process Tempo on the evolution of 'Alias Engine' into a 100% functional LLM-driven text-to-report system, now integrated as a flagship product feature."
+      ]
+    },
+    {
+      "company": "Fundación Rafael Dondé",
+      "role": "Solutions Architect",
+      "src":"https://archertroy.com/wp-content/uploads/2020/07/clientes-fundacion-donde.png",
+      "period": "March 2025 - April 2025",
+      "description": "Short-term strategic consulting focused on infrastructure modernization and AI roadmap definition.",
+      "achievements": [
+        "Delivered 21 actionable proposals for AI integration and fraud prevention, leading the identification of strategic opportunities.",
+        "Mapped complex Big Data systems using Neo4j within a 3-week cycle, demonstrating solution ownership and efficiency."
+      ]
+    },
+    {
+      "company": "London Stock Exchange Group (LSEG)",
+      "role": "Backend Developer / AI Architect",
+      "period": "October 2023 - April 2024",
+      "description": "I led and presented a strategic AI initiative to the organization's Global AI Director, successfully outcompeting proposals from international units in India, Russia, and the USA. As the sole representative from Mexico, I assumed full ownership of the technical and strategic architecture for a Retrieval-Augmented Generation (RAG) system.",
+      "src": "https://raw.githubusercontent.com/christopherorea/mycv/refs/heads/master/public/playground_assets/lseg.png",
+      "achievements": [
+        "Pitched and secured approval for a mission-critical RAG architecture against global internal competition (India, Russia, USA), presenting directly to the AI Director.",
+        "Eliminated code duplication and accelerated developer onboarding via semantic search, improving team efficiency.",
+        "Authored enterprise-grade documentation on deploying LLMs within Neo4j architectures, establishing standards and best practices."
+      ]
+    },
+    {
+      "company": "Mirai Innovation Research Institute",
+      "role": "Strategic AI Advisor & Lead Mentor",
+      "location": "Osaka, Japan",
+      "period": "2022 - 2023",
+      "src":"https://youtu.be/I8s1B7-Ra9o?si=zBo0cldzSQ4f9p92",
+      "description": "I led the technical architecture and development strategy for 18 high-impact AI projects, providing expert supervision and validation while integrating advanced biometrics and neuroscience into commercial solutions.",
+      "achievements": [
+        "Directed the end-to-end development roadmap and technical validation for 18 student projects, ensuring TLR-grade outcomes.",
+        "Developed the 'Brain-Based Dynamic Art Studio' (BMI-to-Diffusion), which served as the research foundation for institutional knowledge transfer and was selected as base research to represent the company at Expo Osaka 2025.",
+        "Implemented Zero-Trust architectures for neuro-biometric data compliance, ensuring security and governance.",
+        "Delivered 10+ advanced AI workshops at EMFUTECH 2023, positioning myself as a key strategic advisor."
+      ]
+    },
+    {
+      "company": "Process Tempo Inc.",
+      "role": "Data Scientist (Graph & NLP)",
+      "period": "October 2021 - September 2022",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRq3MZh_ZpdC1G8rtppUzek5PMLDsUjV-ZQ&s",
+      "description": "I developed NLP-to-Cypher solutions and led Zero-Trust cybersecurity implementations, taking technical direction and delivery ownership of projects that evolved into core product features.",
+      "achievements": [
+        "Built 'Alias Engine' for natural language to Neo4j Cypher conversion; later scaled the logic via strategic consultancy into a production-grade LLM system that is now a core part of their product.",
+        "Led Zero-Trust use cases for preventing PII data breaches in enterprise APIs, ensuring integrity and compliance."
+      ]
+    },
+    {
+      "company": "Anuka",
+      "role": "NLP Engineer & Python Developer",
+      "period": "July 2020 - October 2021",
+      "src": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*zeWEK5tOOsgPp4bE",
+      "description": "I directed the development of AI-powered educational tools and conversational agents, with ownership over the strategy and implementation.",
+      "achievements": [
+        "Built 'Lia', a context-aware AI grammar agent using Transformers and BERT, demonstrating technical leadership in innovative projects.",
+        "Architected the Creolio MVP (Django) with NLP and spaced repetition algorithms, leading the product's technical vision."
+      ]
+    }
+  ],
+  "independent_consulting_and_rd": [
+    {
+      "engagement": "Strategic Technical Advisory",
+      "date": "February 2026",
+      "details": "High-level consultation for a US-based research firm, focusing on architectural design and deployment strategies for advanced monitoring systems, assuming a strategic leadership role."
+    },
+    {
+      "date": "August 2025 - March 2026",
+      "engagement": "Open Source Core Contribution: Model Context Protocol",
+      "details": "I resolved a critical architectural flaw in the Model Context Protocol TypeScript SDK regarding `mcp-session-id` persistence. I authored a hotfix for `StreamableHTTPClientTransport`, demonstrating ownership in resolving a key architectural problem.",
+      "links": [
+        { "text": "Issue #852", "url": "https://github.com/modelcontextprotocol/typescript-sdk/issues/852" },
+        { "text": "Pull Request #1591", "url": "https://github.com/modelcontextprotocol/typescript-sdk/pull/1591" }
+      ]
+    },
+    {
+      "date": "March 2026",
+      "engagement": "Ontology Management Automation",
+      "details": "I designed and built a personal MCP server environment to automate the generation of complex structured data nodes and ontologies, taking full ownership of the conceptualization and implementation.",
+      "links": [
+        { "text": "Iran War KG", "url": "https://www.linkedin.com/feed/update/urn:li:activity:7439863922809065472/" }
+      ]
+    }
+  ],
+  "featured_projects": {
+    "description": "A selection of my best work, from enterprise AI solutions to open-source contributions and social impact projects.",
+    "projects": [
+      {
+        "id": "lau-local-agentic-utility",
+        "title": "LAU | Local Agentic Utility",
+        "year": 2026,
+        "category": "Fintech / Agentic Utilities",
+        "description": "I developed the LAU proposal: an agentic financial utility that runs on private infrastructure to optimize investments using advanced mathematics. The platform provides privacy by design, intelligent execution connected to brokers with user authorization, and deployment options in the cloud or on private physical servers. Business models include Lite Plan, Pro Plan (success‑fee based), and Elite Plan (physical server installation), with a reported historical return of 20% annual and discounted founder programs.",
+        "src": "https://christopherorea.github.io/lau-join-now/Lau.jpeg",
+        "tech_stack": [
+          "Agentic AI",
+          "Automated Trading",
+          "Mathematical Optimization",
+          "Private Infrastructure",
+          "Security by Design",
+          "Server Deployment"
+        ],
+        "links": [
+          {
+            "type": "Website",
+            "url": "https://christopherorea.github.io/lau-join-now"
+          }
+        ]
+      },
+      {
+        "id": "kg-creator",
+        "title":"Knowledge Graph Explorer and Creator",
+        "year": 2026,
+        "category": "Enterprise AI Solutions",
+        "description": "I conceived and directed the development of a lightweight knowledge graph system to analyze video content and research materials related to the Iran-Israel Conflict. I leveraged Bloom embeddings and Neo4j to uncover non-obvious relationships and patterns across sources, demonstrating ownership of the intelligence analysis strategy.",
+        "src": "https://raw.githubusercontent.com/christopherorea/mycv/refs/heads/master/public/playground_assets/Ontology%20and%20Knowledge%20Graph%20Builder.jpg",
+        "tech_stack": ["Neo4j", "NLP", "Knowledge Graph", "Digital Twins"],
+        "links":[
+          {"type": "Article", "url": "https://www.linkedin.com/feed/update/urn:li:activity:7439863922809065472/"}
+        ]
+      },
+      {
+        "id": "ontology-creator",
+        "title":"Ontology MCP Creator",
+        "year": 2026,
+        "category": "Enterprise AI Solutions",
+        "description": "I designed and led the construction of a scalable MCP ML server enabling rapid ontology creation and reuse. I developed NLP pipelines capable of extracting entities, rules, constraints, and relationships from unstructured text in any format. This platform supports continuous agent evolution, accelerates demo development, and strengthens knowledge and reasoning capabilities for LLMs. I delivered ontologies, knowledge graphs, and Digital Twin foundations for 3+ S&P 500 clients, achieving TLR-7 outcomes and demonstrating full ownership from strategy to delivery.",
+        "src": "https://raw.githubusercontent.com/christopherorea/mycv/refs/heads/master/public/playground_assets/Ontology.png",
+        "tech_stack": ["Generative AI", "MCP", "NLP", "Ontology Design", "Agentic AI Architectures", "Digital Twins"],
+        "links":[
+          {"type": "Documentation", "url": "https://www.linkedin.com/in/chrisgalleta/overlay/Position/2671677127/treasury/?profileId=ACoAABo-H2gBeVg4gJkEKHgo8r2KePZ86lyHiBM"}
+        ]
+      },
+      {
+        "id": "mcp-client-latam",
+        "title": "LATAM IA: MCP Client",
+        "year": 2025,
+        "category": "Open Source Engineering",
+        "description": "I led the development of a privacy-focused open-source MCP client enabling custom AI agents to run on any device. It features seamless integration with LLMs like Gemini and a distributed, customizable architecture. I was responsible for the conception and initial implementation of this strategic project.",
+        "src": "https://raw.githubusercontent.com/christopherorea/Latam-IA-MCP-client/refs/heads/main/icons/icon-128.png",
+        "tech_stack": ["TypeScript", "MCP", "Gemini API"],
+        "links": [
+          { "type": "Live Demo", "url": "https://christopherorea.github.io/Latam-IA-MCP-client/" },
+          { "type": "Documentation", "url": "https://github.com/christopherorea/Latam-IA-MCP-client" }
+        ]
+      },
+      {
+        "id": "mcp-core-contribution",
+        "title": "MCP SDK: Core Contribution",
+        "year": 2026,
+        "category": "Open Source Engineering",
+        "description": "I resolved a critical architectural flaw in the Model Context Protocol (MCP) TypeScript SDK regarding session persistence. I authored the official hotfix for StreamableHTTPClientTransport, taking ownership of solving a key architectural problem.",
+        "tech_stack": ["TypeScript", "MCP", "Distributed Systems"],
+        "links": [
+          { "type": "Pull Request", "url": "https://github.com/modelcontextprotocol/typescript-sdk/pull/1591" }
+        ]
+      },
+      {
+        "id": "youtube-semantic-extractor",
+        "title": "YouTube Semantic Extractor",
+        "year": 2023,
+        "category": "Data Engineering & NLP",
+        "description": "I designed and developed a Chrome extension for automated YouTube transcript extraction and ingestion. I orchestrated GCloud NLP pipelines for large-scale market intelligence and semantic analysis, demonstrating end-to-end ownership of the data process.",
+        "tech_stack": ["Chrome Extension API", "GCloud NLP", "JavaScript"],
+        "links": [
+          { "type": "Store", "url": "https://chromewebstore.google.com/detail/youtube-x-gcloud-transcri/jfkenhajfohdlbkelclafogeppnaopif" }
+        ]
+      },
+      {
+        "id": "consultor-ia-core",
+        "title": "Consultor-IA.tech",
+        "year": 2023,
+        "category": "Enterprise AI Solutions",
+        "src":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*M9WLen-vqtTwsZvueLBv0Q.jpeg",
+        "description": "I led the creation and delivery of customized AI solutions, focused on operational optimization and security-first architectures, with clear ownership over strategy and business outcomes.",
+        "tech_stack": ["Vertex AI", "HuggingFace", "Neo4j", "Docker"],
+        "links": [{ "type": "Live Demo", "url": "https://consultor-ia.tech" }]
+      },
+      {
+        "id": "violentometro-ai",
+        "title": "Violentómetro: Prevention AI",
+        "year": 2024,
+        "category": "Social Impact / AI Safety",
+        "description": "I directed the development of an AI-powered detection system that identifies early signs of violence through voice and chat triage, demonstrating leadership in social impact projects with ownership over methodology and ethical implementation.",
+        "tech_stack": ["Voice AI", "NLP Classification", "Automated Triage"],
+        "links": [{ "type": "Live Demo", "url": "https://consultor-ia.tech/iniciativas/" }]
+      },
+      {
+        "id": "adike-legaltech",
+        "title": "A-Diké: LegalTech Platform",
+        "year": 2023,
+        "src":"https://consultor-ia.tech/wp-content/uploads/2025/10/adike.jpg",
+        "category": "LegalTech",
+        "description": "I conceived and led the development of a Law Facilitator SaaS using Knowledge Graph RAGs for Latin America. The system features direct integration with court resolutions, providing simplified legal access through semantic search and NLP, validated in Mexico and Venezuela.",
+        "tech_stack": ["Knowledge Graph", "RAG Architecture", "Semantic Search", "LLMs", "Vector Databases"],
+        "links": [{ "type": "Live Demo", "url": "https://consultor-ia.tech/iniciativas/" }]
+      },
+      {
+        "id": "nasa-hackathon",
+        "title": "NASA Hackathon: Mission Critical RAG",
+        "category": "High-Pressure R&D",
+        "description": "I led the deployment of a specialized Knowledge Graph in 24 hours for real-time safety auditing at the NASA Hackathon, demonstrating execution capability under pressure and technical ownership.",
+        "business_impact": "Enabled real-time auditing of sensors against NASA safety standards, with direct impact on critical decision-making.",
+        "src": "https://raw.githubusercontent.com/christopherorea/mycv/refs/heads/master/public/playground_assets/galactic.jpg",
+        "tech_stack": ["Knowledge Graph", "Neo4j", "RAG Architecture"]
+      },
+      {
+        "id": "xook-ai",
+        "title": "Xook AI",
+        "category": "Enterprise Automation",
+        "description": "I directed the development of a media digitization platform featuring news categorization, generative video creation, an interactive web app, and a WhatsApp bot newsletter. I assumed full ownership of the product strategy and its technical implementation.",
+        "business_impact": "Automated critical processes, delivering $1M MXN in ROI through operational resource optimization.",
+        "src": "https://raw.githubusercontent.com/christopherorea/mycv/refs/heads/master/public/playground_assets/aitana.png",
+        "tech_stack": ["Generative Video", "WhatsApp API", "NLP", "Python"]
+      },
+      {
+        "id": "ai-social-media",
+        "title": "AI Social Media Engine (The DECK)",
+        "category": "Generative AI",
+        "description": "I developed and was responsible for an award-winning content generation solution using custom embedding models. Featured by the Mexican Secretariat of Public Education (SEP) for its technological impact.",
+        "business_impact": "Re-engineered the solution for speed and cost-effectiveness, securing further seed funding, with strategic ownership over product evolution.",
+        "src": "https://www.youtube.com/embed/ZgW3N6i3PzE",
+        "tech_stack": ["Custom Embeddings", "Vector Similarity", "Data Analytics"]
+      },
+      {
+        "id": "fruitful-life-ai",
+        "title": "Fruitful Life: Emotion AI",
+        "category": "Health Tech",
+        "description": "I conceived and led the development of a mental health awareness app leveraging facial emotion recognition to combat stigma through early intervention. Reached the semifinals at the inaugural Code Launch Mexico hackathon, securing validated feedback from 14 active users to refine the core logic.",
+        "src": "https://consultor-ia.tech/wp-content/uploads/2025/10/Captura-de-pantalla-2025-10-06-045520.png",
+        "tech_stack": ["Computer Vision", "Emotion Detection", "PWA", "Facial Expression Recognition"]
+      },
+      {
+        "id": "mirai-innovation-mentor",
+        "title": "Mirai Innovation: Strategic AI Advisor & Mentor",
+        "year": 2023,
+        "category": "Research and Development",
+        "description": "I served as a strategic AI advisor and mentor for Mirai Innovation (Mexico/Japan). I led the technical development and strategic planning for 18 complex projects assigned to students, providing full supervision and technical validation. Additionally, I spearheaded AI applications for the public sector and delivered 10+ workshops at EMFUTECH 2023 in Japan covering xAI, MLOps, and NLP.",
+        "src": "https://www.youtube.com/embed/I8s1B7-Ra9o",
+        "tech_stack": ["Ethical AI", "Reinforcement Learning", "MLOps", "Computer Vision"],
+        "links": [
+          { "type": "EMFUTECH Japan", "url": "https://www.mirai-innovation-lab.com/emfutech-japan-2023/" },
+          { "type": "10 Workshops", "url": "https://www.youtube.com/shorts/Gcjlz4APKxo" },
+          { "type": "Radio Interview", "url": "https://www.youtube.com/watch?v=U-yBA6DEisg" }
+        ]
+      },
+      {
+        "id": "gdg-speaker-mexico",
+        "title": "GDG Speaker: AI Evangelism",
+        "year": 2023,
+        "category": "AI Advocacy",
+        "description": "A prolific speaker at Google Developer Groups across Mexico. I shared expertise on reducing time-to-market, Vertex AI, and LLM-powered applications, demonstrating community leadership and ownership in strategic knowledge transfer.",
+        "src": "https://www.youtube.com/embed/AJ1rG6ZATP4",
+        "tech_stack": ["Vertex AI", "LLMs", "GCloud"],
+        "links": [
+          { "type": "GDG Event", "url": "https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-gdg-hermosillo-react-firebase-and-ai-with-gcloud/" },
+          { "type": "Talks Playlist", "url": "https://www.youtube.com/watch?v=Tgg2SludF38&list=PLnv6QfOebpsJFhWvHjUeMX7oC521725Vx" }
+        ]
+      },
+      {
+        "id": "brain-art-studio",
+        "title": "Brain-Based Dynamic Art Studio",
+        "year": 2023,
+        "category": "Neuroscience & Generative AI",
+        "description": "I seamlessly blended art and neuroscience by creating a VR environment where users generate dynamic art via emotional analysis, stored as NFTs on the blockchain. This project served as the research cornerstone for institutional knowledge transfer and was selected to represent Mirai Innovation at Expo Osaka 2025.",
+        "src": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*TvCUCufWE-uQqJw9.png",
+        "tech_stack": ["BMI (Brain-Machine Interface)", "Generative AI", "Blockchain", "NFTs"],
+        "links": [
+          { "type": "Demo", "url": "https://www.youtube.com/shorts/xk-o9SL6oFQ" }
+        ]
+      },
+      {
+        "id": "emfutech-2022-japan",
+        "title": "EMFUTECH 2022: Emerging Tech Immersion",
+        "year": 2022,
+        "category": "R&D Training",
+        "src": "https://raw.githubusercontent.com/christopherorea/mycv/refs/heads/master/public/playground_assets/chris-1000h.jpg",
+        "description": "Selected among the top 18 participants in Mexico for an intensive 3-month immersion in Japan. I mastered Robotics, AR/VR, and AI, completing two major projects: an AI idea generator and a brain-based art studio, demonstrating high-performance ownership in R&D environments.",
+        "tech_stack": ["Robotics", "AR/VR", "Blockchain", "AI"],
+        "links": [
+          { "type": "Interview", "url": "https://issuu.com/diarioplazajuarez_/docs/06-03-23/13" }
+        ]
+      },
+      {
+        "id": "lia-ai-chatbot",
+        "title": "Lia: Contextual Grammar AI",
+        "year": "2020-2021",
+        "category": "NLP Research",
+        "description": "I led the development of an AI-powered chatbot providing lemmatization, synonyms, and contextual exercises. I researched and implemented memory optimization for Spacy modules, marking my initial foray into Transformers and LLMs, with ownership of the research and solution development.",
+        "src": "https://www.youtube.com/embed/GRFLl9rpcCc",
+        "tech_stack": ["NLP", "Spacy", "Transformers", "BERT"],
+        "links": [
+          { "type": "Demo", "url": "https://youtube.com/shorts/A1m5BzWK1NM" },
+          { "type": "Article", "url": "https://medium.com/@thcookieh/from-zero-to-hero-my-beginnings-in-generative-ai-610f495276be" }
+        ]
+      }
+    ]
+  },
+  "technical_arsenal": {
+    "architectural_patterns": [
+      "Zero-Trust Security",
+      "Agentic AI Architectures",
+      "Knowledge Graph-RAG",
+      "Edge AI Strategies",
+      "Digital Twins"
+    ],
+    "data_engineering_and_mlops": [
+      "Databricks",
+      "Apache Spark",
+      "SparkML",
+      "Vertex AI",
+      "Data Pipelines"
+    ],
+    "graph_and_semantic_tech": [
+      "Neo4j",
+      "Ontology Design",
+      "NLP (Transformers, GPT, BERT)",
+      "LLM Orchestration"
+    ],
+    "languages_and_frameworks": [
+      "Python",
+      "Model Context Protocol (MCP)",
+      "TypeScript",
+      "GitHub Copilot Customization"
+    ],
+    "frontend_and_deployment": [
+      "React / Node.js",
+      "PWA (Progressive Web Apps)",
+      "Chrome Extension API",
+      "Android Build Systems",
+      "Docker"
+    ]
+  },
+  "certifications": [
+    {
+      "category": "Data Engineering & MLOps",
+      "credentials": [
+        {
+          "title": "Databricks Certified Machine Learning Professional",
+          "issuer": "Databricks",
+          "id": "169255076",
+          "highlight": "Expert in scaling MLOps and SparkML. First professional in SE Mexico."
+        },
+        {
+          "title": "Neo4j Graph Data Science Certified",
+          "issuer": "Neo4j",
+          "id": "17283321",
+          "highlight": "Foundational expertise for Knowledge Graph RAG architectures."
+        }
+      ]
+    },
+    {
+      "category": "Explainable AI & Governance",
+      "credentials": [
+        {
+          "title": "Specialization in Interpretable Machine Learning",
+          "issuer": "Coursera",
+          "highlight": "Advanced expertise in dismantling 'black-box' models for certainty."
+        },
+        {
+          "title": "Ethics & Limitations of AI Algorithms",
+          "issuer": "LearnQuest",
+          "highlight": "Governance framework for auditable and ethical AI deployment."
+        }
+      ]
+    }
+  ],
+  "community_leadership": [
+    {
+      "role": "Expert Juror & Mentor",
+      "organization": "Tecnológico de Monterrey (ITESM)",
+      "period": "2023 - Present",
+      "details": "Serving as a Juror for prestigious events like the Hult Prize and Fin4All at the Queretaro Campus. Evaluating startups and tech-based projects focused on social impact and Fintech while providing strategic mentorship for early-stage entrepreneurs."
+    },
+    {
+      "role": "AI Speaker & Community Lead",
+      "organization": "Google Developer Groups (GDG)",
+      "period": "2023 - Present",
+      "details": "Advocating for xAI and MLOps across Mexico, Colombia, and Chile. Reached 1,500+ professionals through conferences on Vertex AI and open-source democratization, while supporting international technological projects."
+    },
+    {
+      "role": "AI Academy Mentor",
+      "organization": "EY GDS Mexico",
+      "period": "2025 - Present",
+      "details": "Internal training and mentorship for specialized talent in AI and data architectures."
+    }
+  ],
+  "education": {
+    "description": "My academic background, from my ongoing Master's in Applied AI to my foundational Bachelor's in Data Science.",
+    "entries": [
+      {
+        "institution": "Tecnológico de Monterrey (ITESM)",
+        "degree": "Master in Applied Artificial Intelligence",
+        "status": "In progress",
+        "graduation_date": "January 2026"
+      },
+      {
+          "institution": "Mirai Innovation and Research Institute",
+          "degree": "Emerging Future Technologies Osaka",
+          "status": "Completed",
+          "graduation_date": "2022",
+          "highlights": [
+            "Awarded with Best project for industry."
+          ]
+      },
+      {
+        "institution": "IEU Universidad",
+        "degree": "B.S. in Data Science for Business",
+        "status": "Graduated",
+        "graduation_date": "2020",
+        "highlights": [
+          "Created and led development of Open Questionare that analyzed 11k records in 20s utilizing NLP, NLG and Markov Chains, allowing actionable items to perform in the next months.",
+          "Led social impact research on gender violence, contributing to proposed legislation in Quintana Roo."
+        ]
+      }
+    ]
+  },
+  "awards_and_recognitions": [
+    {
+      "title": "Strategic AI Thought Leadership",
+      "issuer": "Independent Publication",
+      "year": "2023 - Present",
+      "details": "Authored +90 specialized technical blogs on AI, ethics, and development; Cross social-media reach over +50,000 annually and establishing a significant presence in the LATAM AI community."
+    },
+    {
+      "title": "Academic Citation: Ethics and Information Technology",
+      "issuer": "Springer Nature",
+      "year": 2025,
+      "details": "Professional blog cited in the peer-reviewed journal 'Ethics and Information Technology' regarding AI ethics and governance frameworks.",
+      "link": "https://link.springer.com/article/10.1007/s10676-025-09845-2"
+    },
+    {
+      "title": "Google Vertex AI Hackathon Recognition",
+      "issuer": "Google Cloud",
+      "year": 2023,
+      "details": "Special recognition for testing and working on innovative application of Vertex AI and Large Language Models on debut.",
+      "link": "https://lablab.ai/u/@thehappycookiehour504/clkib9gms03deod0hsl2wy0uf"
+    },
+    {
+      "title": "Semifinalist",
+      "issuer": "Code Launch Mexio",
+      "year": 2023,
+      "details": "Reached semifinals at the inaugural Code Launch Mexico with an AI-driven mental health awareness app, securing validated feedback from 14 active users.",
+      "link": "https://medium.com/@thcookieh/fruitful-life-a-new-way-to-treat-depression-in-mexico-c7d61f0a24ed"
+    },
+    {
+      "title": "Best Project Award for Industry",
+      "issuer": "Emfutech, Japan",
+      "year": 2022,
+      "details": "Recognition for excellence in developing high-impact AI-based industrial applications during the EMFUTECH program.",
+      "link": "https://medium.com/@thcookieh/how-i-created-my-own-embedding-system-and-won-a-prize-in-japan-357a32f64fa9"
+    },
+    {
+      "title": "National Innovation & Technology Award",
+      "issuer": "IMJUVE",
+      "year": 2020,
+      "details": "Awarded for outstanding contributions to technological advancement and social impact in Mexico.",
+      "link": "https://www.linkedin.com/in/chrisgalleta/overlay/Position/1569961021/treasury/?profileId=ACoAABo-H2gBeVg4gJkEKHgo8r2KePZ86lyHiBM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_position_details%3BEurOA6wPRmyJZ1mFBtBX3Q%3D%3D"
+    }
+  ],
+  "beyond_the_code": {
+    "description": "Beyond my professional life, I am a firm believer in the importance of a well-rounded and disciplined lifestyle. I am passionate about martial arts, music, and gaming. I find that these activities help me to stay focused and creative.",
+    "interests": [
+      {
+        "activity": "Martial Arts",
+        "details": "Tae Kwon Do practitioner (8vo Kup) focused on discipline.",
+        "icon": "Trophy"
+      },
+      {
+        "activity": "Windsurfing",
+        "details": "Demanding balance, endurance, and environmental adaptability.",
+        "icon": "Wind"
+      },
+      {
+        "activity": "Cognitive Focus",
+        "details": "Utilizing Japanese math rock and classical music for deep-work structure.",
+        "icon": "Music"
+      },
+      {
+        "activity": "System Exploration",
+        "details": "Exploring massive system simulators (e.g., Starfield) for high immersion and complex mechanics.",
+        "icon": "Gamepad2"
+      }
+    ]
+  }
+}

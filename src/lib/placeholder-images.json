@@ -1,3 +1,100 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "project1",
+      "description": "AI Consultancy & Custom Enterprise Solutions",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "AI solutions"
+    },
+    {
+      "id": "project2",
+      "description": "Violentómetro: Prevention & Awareness",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "social impact"
+    },
+    {
+      "id": "project3",
+      "description": "A-Diké: Legal Empowerment Platform",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "legal tech"
+    },
+    {
+      "id": "project4",
+      "description": "Fruitful Life: Depression & Suicide Prevention",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "health tech"
+    },
+    {
+      "id": "project5",
+      "description": "Tech Democratization & Open Source Initiatives",
+      "imageUrl": "https://picsum.photos/seed/5/600/400",
+      "imageHint": "open source"
+    },
+    {
+      "id": "project6",
+      "description": "YouTube x GCloud Semantic Extractor",
+      "imageUrl": "https://picsum.photos/seed/6/600/400",
+      "imageHint": "data engineering"
+    },
+    {
+      "id": "project7",
+      "description": "Xook AI",
+      "imageUrl": "https://picsum.photos/seed/7/600/400",
+      "imageHint": "enterprise automation"
+    },
+    {
+      "id": "project8",
+      "description": "NASA AI Hackathon: Mission Critical RAG",
+      "imageUrl": "https://picsum.photos/seed/8/600/400",
+      "imageHint": "NASA hackathon"
+    },
+    {
+      "id": "project9",
+      "description": "AI Social Media Engine (The DECK)",
+      "imageUrl": "https://picsum.photos/seed/9/600/400",
+      "imageHint": "generative AI"
+    },
+    {
+      "id": "project10",
+      "description": "Fruitful Life: Emotion AI",
+      "imageUrl": "https://picsum.photos/seed/10/600/400",
+      "imageHint": "health tech"
+    },
+    {
+      "id": "project11",
+      "description": "Mirai Innovation: AI Mentor & Representative",
+      "imageUrl": "https://picsum.photos/seed/11/600/400",
+      "imageHint": "AI research"
+    },
+    {
+      "id": "project12",
+      "description": "GDG Speaker: AI Evangelism",
+      "imageUrl": "https://picsum.photos/seed/12/600/400",
+      "imageHint": "AI advocacy"
+    },
+    {
+      "id": "project13",
+      "description": "Brain-Based Dynamic Art Studio",
+      "imageUrl": "https://picsum.photos/seed/13/600/400",
+      "imageHint": "neuroscience AI"
+    },
+    {
+      "id": "project14",
+      "description": "EMFUTECH 2022: Emerging Tech Immersion",
+      "imageUrl": "https://picsum.photos/seed/14/600/400",
+      "imageHint": "R&D training"
+    },
+    {
+      "id": "project15",
+      "description": "Lia: Contextual Grammar AI",
+      "imageUrl": "https://picsum.photos/seed/15/600/400",
+      "imageHint": "NLP research"
+    },
+    {
+      "id": "profile",
+      "description": "Christopher Orea professional portrait with Google Cloud background.",
+      "imageUrl": "https://raw.githubusercontent.com/christopherorea/mycv/master/public/playground_assets/Gemini_Generated_Image_.png",
+      "imageHint": "Google Cloud portrait"
+    }
+  ]
 }
