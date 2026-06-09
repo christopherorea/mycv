@@ -34,9 +34,30 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "THCOOKIEH",
+    "url": "https://thcookieh.dev",
+    "image": "https://thcookieh.dev/og-image.png",
+    "sameAs": [
+      "https://www.linkedin.com/in/thcookieh/",
+      "https://github.com/thcookieh",
+    ],
+    "jobTitle": "Software Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "THCOOKIEH"
+    }
+  };
+
   return (
     <html lang="en" className="dark">
       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
