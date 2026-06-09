@@ -29,7 +29,14 @@ export function FloatingNav() {
 
     const element = document.getElementById(id);
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
+      const headerOffset = 112; // Adjust this value based on your header's height
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+    
+      window.scrollTo({
+         top: offsetPosition,
+         behavior: "smooth"
+      });
     }
     setIsOpen(false);
   };

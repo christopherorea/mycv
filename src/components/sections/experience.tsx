@@ -1,10 +1,25 @@
+
+"use client"
+
+import * as React from "react";
 import { PORTFOLIO_DATA } from "@/lib/data";
 import { Card, CardHeader, CardTitle, CardContent, CardDescription } from "@/components/ui/card";
-import { Check } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Check, ChevronDown } from "lucide-react";
 import Image from 'next/image';
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "@/components/ui/collapsible";
 
 export function Experience() {
   const { professional_experience } = PORTFOLIO_DATA;
+  const [openStates, setOpenStates] = React.useState<Record<string, boolean>>({});
+
+  const toggleOpen = (id: string) => {
+    setOpenStates(prev => ({ ...prev, [id]: !prev[id] }));
+  };
 
   return (
     <section id="experience" className="py-6 md:py-10">
@@ -20,6 +35,7 @@ export function Experience() {
         <div className="grid gap-8">
             {professional_experience && professional_experience.map((job) => {
                 const isVideo = job.src && (job.src.includes('youtube') || job.src.includes('youtu.be'));
+                const uniqueId = `${job.company}-${job.role}`.replace(/\s+/g, '-').toLowerCase();
                 
                 let videoEmbedUrl = '';
                 if (isVideo && job.src) {
@@ -35,7 +51,7 @@ export function Experience() {
                 }
 
                 return (
-                    <Card key={job.company} className="overflow-hidden transition-transform duration-300 ease-in-out hover:-translate-y-1">
+                    <Card key={uniqueId} className="overflow-hidden transition-all duration-300 ease-in-out ">
                         <div className={job.src ? 'grid md:grid-cols-3' : ''}>
                             {isVideo && videoEmbedUrl ? (
                                 <div className="relative aspect-video md:aspect-auto">
@@ -69,14 +85,28 @@ export function Experience() {
                                 <CardContent>
                                     <p className="text-muted-foreground mb-4">{job.description}</p>
                                     {job.achievements && job.achievements.length > 0 && (
-                                        <ul className="space-y-2">
-                                            {job.achievements.map((achievement, index) => (
-                                            <li key={index} className="flex items-start gap-3">
-                                                <Check className="h-4 w-4 mt-1 flex-shrink-0 text-primary" />
-                                                <span className="text-muted-foreground">{achievement}</span>
-                                            </li>
-                                            ))}
-                                        </ul>
+                                        <Collapsible
+                                          open={openStates[uniqueId] || false}
+                                          onOpenChange={() => toggleOpen(uniqueId)}
+                                          className="w-full"
+                                        >
+                                            <CollapsibleTrigger asChild>
+                                                <Button variant="ghost" className="w-full justify-start p-0 h-auto mb-4 text-sm font-semibold text-primary hover:text-primary/90">
+                                                    <ChevronDown className={`mr-2 h-4 w-4 transition-transform duration-200 ${openStates[uniqueId] ? 'rotate-180' : ''}`} />
+                                                    {openStates[uniqueId] ? 'Hide achievements' : `Show ${job.achievements.length} achievements`}
+                                                </Button>
+                                            </CollapsibleTrigger>
+                                            <CollapsibleContent className="CollapsibleContent">
+                                                <ul className="space-y-3 pl-2 border-l border-primary/20">
+                                                    {job.achievements.map((achievement, index) => (
+                                                    <li key={index} className="flex items-start gap-3">
+                                                        <Check className="h-4 w-4 mt-1 flex-shrink-0 text-primary" />
+                                                        <span className="text-muted-foreground">{achievement}</span>
+                                                    </li>
+                                                    ))}
+                                                </ul>
+                                            </CollapsibleContent>
+                                        </Collapsible>
                                     )}
                                 </CardContent>
                             </div>
@@ -89,3 +119,4 @@ export function Experience() {
     </section>
   );
 }
+

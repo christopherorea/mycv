@@ -21,7 +21,7 @@ async function getMediumPosts() {
   const parser = new Parser();
   try {
     const feed = await parser.parseURL('https://medium.com/feed/@thcookieh');
-    return feed.items.slice(0, 4).map((item) => {
+    return feed.items.slice(0, 6).map((item) => {
       const content = item['content:encoded'] || item.content || '';
       const imgRegex = /<img[^>]+src="([^\">]+)"/;
       const match = content.match(imgRegex);

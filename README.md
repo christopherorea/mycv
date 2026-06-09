@@ -19,9 +19,9 @@ I specialize in architecting **semantic infrastructure** that eliminates halluci
 
 ## 📊 Case Studies
 
-Two real-world projects demonstrating the convergence of **platform thinking** and **execution rigor**:
+### Technical Architecture & Platform Engineering
 
-### [Case Study 1: Enterprise Knowledge Graph Platform (EPC Data)](Case_Study_1_EPC_Knowledge_Graph.md)
+#### [Case Study 1: Enterprise Knowledge Graph Platform (EPC Data)](Case_Study_1_EPC_Knowledge_Graph.md)
 
 **The Challenge:** Transform hyper-complex engineering, procurement, and construction documentation into a deterministic, production-grade knowledge platform.
 
@@ -36,7 +36,7 @@ Two real-world projects demonstrating the convergence of **platform thinking** a
 
 ---
 
-### [Case Study 2: Reusable Autonomous Ontology Creation Framework](Case_Study_2_Autonomous_Ontology_Framework.md)
+#### [Case Study 2: Reusable Autonomous Ontology Creation Framework](Case_Study_2_Autonomous_Ontology_Framework.md)
 
 **The Challenge:** Create a **platform framework** for enterprise ontology generation that can scale across domains without manual governance workshops.
 
@@ -51,6 +51,66 @@ Two real-world projects demonstrating the convergence of **platform thinking** a
 **Proven in production:** Framework successfully handles the hyper-complex EPC data landscape (Case Study 1), demonstrating platform-wide reusability.
 
 ---
+
+#### [Case Study 4: Automated AI Risk Auditing & Compliance Gateway](Case_Study_4_Automated_AI_Risk_Auditing.md)
+
+**The Challenge:** Automate real-time risk auditing and compliance for high-dimensional production embeddings in regulated environments.
+
+**The Solution:**
+- **Pillar 1 (Detection):** High-dimensional interception and geometric analysis of embeddings for pre-execution auditing.
+- **Pillar 2 (Validation):** Neuro-symbolic ontological contrast against enterprise knowledge graphs for factual verification.
+- **Pillar 3 (Mitigation):** Localized matrix remapping for real-time correction of factual discrepancies at 99% reduced compute cost.
+
+**What This Demonstrates:**
+- ✅ **Active Risk Engineering:** Hardened, architectural constraints for enterprise AI safety.
+- ✅ **Immutable Governance:** Audit-ready trace-logs for strict regulatory demands.
+- ✅ **Financial Architecture Optimization:** Prevents runaway compute spend with localized corrections.
+
+---
+
+### Organizational Architecture & Strategic Enablement
+
+#### [Case Study 3: Enterprise AI Capability Scaling — From Blueprint to Inclusive Academy to Operations](Case_Study_3_Enterprise_AI_Capability_Scaling.md)
+
+**The Unified Challenge:** Organizations need four interconnected systems to scale AI sustainably: clear organizational structure, effective horizontal enablement, inclusive learning design, and resilient operations under pressure.
+
+**The Four-Pillar Solution:**
+
+1. **Pillar 1 — Enterprise ML Department Blueprint**
+   - Organizational structure with defined roles and capability streams
+   - Clear decision rights and collaboration models
+   - Prevents duplication; enables reuse
+
+2. **Pillar 2 — GenAI + Data Platform Center of Excellence**
+   - Transversal acceleration layer (not delivery team, not gatekeeping)
+   - Four operating fronts: technical patterns, enablement, governance, use-case acceleration
+   - Standardizes patterns; scales knowledge horizontally
+
+3. **Pillar 3 — Inclusive AI Academy Design**
+   - Learning framework for diverse technical and non-technical profiles
+   - Neurodivergence-informed design (ADHD, autism, dyslexia, dyscalculia)
+   - Role-based pathways; multi-modal content; psychological safety
+   - Transfers expertise from people to systems
+
+4. **Pillar 4 — Operating Under Pressure**
+   - Structural clarity: requirements, architecture, decision frameworks
+   - Risk inventory and explicit boundary statements
+   - Stakeholder narratives and alignment cadences
+   - Knowledge transfer and operational continuity
+
+**Why Together:** Structure (Pillar 1) → Acceleration (Pillar 2) → Accessible Enablement (Pillar 3) → Resilience (Pillar 4) = Sustainable AI capability that scales and survives pressure.
+
+**What This Demonstrates:**
+- ✅ Organizational architecture and operating model design
+- ✅ Enablement strategy and knowledge scaling
+- ✅ Inclusive learning design and cultural leadership
+- ✅ Crisis handling, ambiguity management, stakeholder alignment
+- ✅ Manager/Lead vision — systems thinking across structure, people, and operations
+- ✅ Understanding that AI maturity is organizational, not technical
+
+---
+
+
 
 ## 🏗️ Architecture Philosophy
 
@@ -104,18 +164,35 @@ Rather than contributing to existing systems, I **own** the complete stack:
 
 ## 📖 How to Read This Portfolio
 
-1. **Start here** if you want to understand my positioning, philosophy, and areas of expertise
-2. **Read Case Study 1** for a deep dive into production-grade architecture addressing hyper-complex engineering data
-3. **Read Case Study 2** for insights into platform engineering, reusable frameworks, and semantic governance automation
-4. **Compare both** to see how the Autonomous Framework principles were battle-tested in real-world conditions (EPC data)
+### **For Technical Architecture Focus**
+1. Read Case Study 1 for production-grade semantic architecture and cost/latency impact
+2. Read Case Study 2 for platform engineering, autonomous frameworks, and scalability
+3. Read Case Study 4 for real-time AI risk auditing, neuro-symbolic governance, and cost-optimized mitigation
+4. Compare them all to understand how architecture compounds across complex domains
+
+### **For Organizational Architecture & Leadership Focus**
+1. Read Case Study 3 (Enterprise AI Capability Scaling & Inclusive Academy Design) for the complete integrated system:
+   - **Pillar 1 (Structural Foundation):** Enterprise ML Department Blueprint
+   - **Pillar 2 (Horizontal Acceleration):** GenAI + Data Platform Center of Excellence operating model
+   - **Pillar 3 (Human-Centered Enablement):** Inclusive AI Academy design
+   - **Pillar 4 (Operational Resilience):** Strategies for operating under pressure and ambiguity
+
+
+### **For Complete Picture**
+- **Technical excellence** (Cases 1-2, 4): How to build deterministic, auditable AI systems
+- **Organizational leadership** (Case 3): How to structure, enable, include, operate at scale, and maintain resilience under pressure
+
+**Shows:** Ability to deliver impact through both **technical architecture** and **human/organizational systems**
 
 ---
 
 ## 🎓 Core Takeaway
 
-**Enterprise AI is not about deploying larger LLMs — it's about building verifiable semantic layers where human domain expertise meets autonomous validation.**
+**Enterprise AI is not about deploying larger LLMs — it's about:**
+1. **Technically:** Building verifiable semantic layers where human domain expertise meets autonomous validation
+2. **Organizationally:** Structuring capability, enabling teams at scale, and maintaining alignment under complexity
 
-The future belongs to architects who can design **deterministic foundations** that enable, constrain, and validate AI decision-making at scale. That's where I operate.
+The future belongs to architects and leaders who can deliver impact through **both technical excellence and organizational clarity.** That's where I operate.
 
 ---
 

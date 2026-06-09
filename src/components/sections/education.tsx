@@ -1,8 +1,11 @@
+
+"use client"
+
+import * as React from "react";
 import { PORTFOLIO_DATA } from "@/lib/data";
 import { getIcon } from "@/lib/utils";
 import { Card, CardHeader, CardTitle, CardContent, CardDescription } from "@/components/ui/card";
 import { Check } from "lucide-react";
-import Image from "next/image";
 
 export function Education() {
   const { description, entries } = PORTFOLIO_DATA.education;
@@ -19,14 +22,11 @@ export function Education() {
             {description}
           </p>
         </div>
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {entries.map((edu) => (
-                <Card key={edu.degree} className="textured-card">
-                    {edu.src && (
-                        <div className="relative aspect-video w-full">
-                            <Image src={edu.src} alt={edu.institution} fill className="object-contain p-4" />
-                        </div>
-                    )}
+        <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3">
+            {entries.map((edu) => {
+              const uniqueId = `${edu.institution}-${edu.degree}`.replace(/\s+/g, '-').toLowerCase();
+              return (
+                <Card key={uniqueId} className="textured-card flex flex-col">
                     <CardHeader>
                         <div className="flex items-start gap-4">
                             {Icon && <Icon className="h-8 w-8 mt-1 text-primary"/>}
@@ -38,19 +38,20 @@ export function Education() {
                         </div>
                     </CardHeader>
                     {edu.highlights && edu.highlights.length > 0 && (
-                        <CardContent>
-                            <ul className="space-y-2">
-                                {edu.highlights.map((metric, index) => (
+                        <CardContent className="flex-grow">
+                            <ul className="space-y-3 pt-4 border-t border-primary/20">
+                                {edu.highlights.map((highlight, index) => (
                                 <li key={index} className="flex items-start gap-3">
                                     <Check className="h-4 w-4 mt-1 flex-shrink-0 text-primary" />
-                                    <span className="text-muted-foreground">{metric}</span>
+                                    <span className="text-sm text-muted-foreground">{highlight}</span>
                                 </li>
                                 ))}
                             </ul>
                         </CardContent>
                     )}
                 </Card>
-            ))}
+              );
+            })}
         </div>
       </div>
     </section>

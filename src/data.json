@@ -48,6 +48,54 @@
   },
   "case_studies": [
     {
+      "id": "automated-ai-risk-auditing",
+      "slug": "automated-ai-risk-auditing",
+      "title": "Automated AI Risk Auditing & Compliance Gateway",
+      "subtitle": "From High-Dimensional Interception to Neuro-Symbolic Governance",
+      "executive_summary": "Architected an automated, real-time risk auditing gateway that mathematically intercepts and validates high-dimensional production embeddings before text generation occurs, enabling deterministic compliance in regulated industries.",
+      "paradigm_shift": "From reactive, post-incident validation to a proactive, pre-execution auditing gateway that enforces compliance at the mathematical level.",
+      "kpis": [
+        { "label": "Compute Cost", "before": "Full Retraining", "after": "Localized Remapping", "impact": "💰 99% Reduction" },
+        { "label": "Risk Mitigation", "before": "Reactive", "after": "Proactive (ms)", "impact": "⚡ Instant" },
+        { "label": "Compliance", "before": "Probabilistic", "after": "Deterministic", "impact": "✅ Deterministic" }
+      ],
+      "role_and_ownership": [
+        "Architected the end-to-end automated risk auditing gateway.",
+        "Designed the high-dimensional interception and geometric analysis filter (Pillar 1).",
+        "Developed the neuro-symbolic contrast pipeline for factual validation against enterprise knowledge graphs (Pillar 2).",
+        "Engineered the localized matrix remapping mechanism for real-time, low-cost error correction (Pillar 3)."
+      ],
+      "challenge": "Organizations in regulated sectors (Finance, RegTech) need the adaptability of GenAI but face a compliance paradox: they operate under zero-tolerance for errors, cannot easily audit the 'black-box' models, and face prohibitive costs for retraining or correcting models, making reactive, post-incident validation a significant business risk.",
+      "solution_sections": [
+        {
+          "title": "Pillar 1: High-Dimensional Interception & Geometric Analysis",
+          "content": "Implemented a real-time mathematical filter to intercept and analyze high-dimensional embeddings before generation. This provides pre-execution auditing by detecting structural drift and semantic bias directly within the model's activation space.",
+          "list": ["Pre-Execution Auditing", "Hallucination Vector Isolation", "Real-Time Anomaly Detection"]
+        },
+        {
+          "title": "Pillar 2: Neuro-Symbolic Ontological Contrast",
+          "content": "Routed the intercepted embeddings through a contrast pipeline connected to an enterprise Knowledge Graph. This layer systematically measures the discrepancy between the model's probabilistic output and deterministic, verified corporate/regulatory facts.",
+          "list": ["Audit-Ready Trace Logs", "Zero-Trust Input Guarding", "Factual Dissonance Calculation"]
+        },
+        {
+          "title": "Pillar 3: Localized Matrix Remapping & Real-Time Correction",
+          "content": "Instead of costly full-network retraining, the gateway performs surgical, localized corrections on the embedding matrix. It realigns vectors to match the validated truth from the Knowledge Graph, instantly mitigating risk with minimal compute OPEX.",
+          "list": ["Instant Risk Defense", "99% Compute Cost Reduction", "Dynamic Truth Injection"]
+        }
+      ],
+      "metrics_comparison": [
+        { "metric": "Risk Mitigation", "before": "Reactive", "after": "Proactive (ms)", "change": "Real-Time Defense" },
+        { "metric": "Correction Cost", "before": "Full Retraining (Weeks)", "after": "Localized Remapping", "change": "99% OPEX Reduction" },
+        { "metric": "Auditability", "before": "Opaque Black-Box", "after": "Transparent (Pre-Execution)", "change": "Full Traceability" }
+      ],
+      "takeaways": [
+        "True AI safety in regulated environments is a mathematical boundary, not a passive instruction.",
+        "Deterministic gateways can confine probabilistic systems into auditable, verifiable realities.",
+        "Moving risk engineering from prompt-level patches to architectural constraints is critical.",
+        "Localized remapping solves model drift and compliance errors while protecting OPEX from runaway compute spend."
+      ]
+    },
+    {
       "id": "epc-knowledge-graph",
       "slug": "epc-knowledge-graph",
       "title": "Enterprise Knowledge Graph Platform",
@@ -131,6 +179,49 @@
         "Built-in governance through automated constraint discovery.",
         "Self-correcting systems catch issues before ingestion.",
         "Multi-store support (RDF, OWL2, Neo4j) from a single source."
+      ]
+    },
+    {
+      "id": "enterprise-ai-capability",
+      "slug": "enterprise-ai-capability",
+      "title": "Enterprise AI Capability Scaling & Inclusive Academy Design",
+      "subtitle": "Architecting a GenAI CoE operating model powered by a neurodivergent-friendly human enablement framework.",
+      "executive_summary": "Designed an enterprise operating model for a GenAI & Data Platform Center of Excellence (CoE) that structurally solves the tech adoption bottleneck by replacing rigid, traditional training with a scalable Academy model incorporating cognitive accessibility and neurodivergent-friendly learning paths.",
+      "paradigm_shift": "From: Monolithic, one-size-fits-all training sessions with high dropout and knowledge locked in experts. To: Adaptive, multi-profile educational ecosystem that treats human learning styles as a core architectural variable — delivering both CoE standardization and human-centered enablement.",
+      "kpis": [
+        { "label": "Onboarding Time", "before": "Variable", "after": "6 Weeks", "impact": " predictable ramp-up" },
+        { "label": "Expert Dependency", "before": "High", "after": "Low", "impact": " a more resilient team" },
+        { "label": "AI Adoption", "before": "Fragmented", "after": "Standardized", "impact": " consistent use" }
+      ],
+      "role_and_ownership": [
+        "Architected the GenAI & Data Platform Center of Excellence (CoE) operating model.",
+        "Designed the neurodivergent-inclusive Academy architecture and curriculum structure.",
+        "Developed the framework for predictable 6-week engineering onboarding.",
+        "Created the governance and risk assessment frameworks for standardized AI adoption."
+      ],
+      "challenge": "Organizations can't scale GenAI adoption because they lack structural governance, systematic enablement, human-centered learning, and operational clarity. Traditional training fails neurodivergent learners and creates expert dependency, leading to fragmented adoption and high friction.",
+      "solution_sections": [
+        {
+          "title": "Center of Excellence Backbone",
+          "content": "Built a centralized operational blueprint with four operating fronts: reusable technical design patterns, rigorous governance guardrails, direct architectural scaffolding for strategic use cases, and systemic reduction of technical debt.",
+          "list": ["Development consistency", "Predictable operations", "Faster time-to-value", "Maintainable platform"]
+        },
+        {
+          "title": "Neurodivergent-Inclusive Academy",
+          "content": "Designed a learning architecture with differentiated cognitive tracks (technical vs. business), accessibility by design (for ADHD, autism, dyslexia), progressive scaffolding for a predictable 6-week ramp-up, and autonomy-oriented learning networks to eliminate expert dependency.",
+          "list": ["Predictable 6-week onboarding", "Cognitive accessibility", "Systematized knowledge", "Reduced expert dependency"]
+        }
+      ],
+      "metrics_comparison": [
+        { "metric": "Onboarding", "before": "Unpredictable", "after": "6 Weeks", "change": "Stabilized" },
+        { "metric": "Knowledge", "before": "In Experts", "after": "In Systems", "change": "Democratized" },
+        { "metric": "Adoption", "before": "Ad-hoc", "after": "Systematic", "change": "Scaled" }
+      ],
+      "takeaways": [
+        "Scaling AI is a human architecture challenge, not just a technical one.",
+        "Inclusive learning design is a core component of resilient AI operating models.",
+        "Systematizing knowledge transfer is key to breaking expert dependency.",
+        "A predictable onboarding process is a critical enabler of delivery resilience."
       ]
     }
   ],

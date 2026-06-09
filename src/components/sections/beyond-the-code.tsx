@@ -6,7 +6,7 @@ export function BeyondTheCode() {
   const { description, interests } = PORTFOLIO_DATA.beyond_the_code;
 
   return (
-    <section id="beyond-the-code" className="py-12 md:py-20 bg-secondary">
+    <section id="beyond-the-code" className="py-12 md:py-20 final-section-background">
       <div className="container">
         <div className="mb-12 text-center">
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl font-headline">
