@@ -9,6 +9,24 @@ export const metadata: Metadata = {
   verification: {
     google: "-1DyVJ-M8aFWLZwW19jXV0pXyfod6HWuWPs2ijhTYHk",
   },
+  openGraph: {
+    title: "@THCOOKIEH",
+    description: "A modern developer portfolio.",
+    url: "https://thcookieh.dev",
+    siteName: "@THCOOKIEH",
+    images: [
+      {
+        url: "https://thcookieh.dev/og-image.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
