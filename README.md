@@ -109,7 +109,19 @@ I specialize in architecting **semantic infrastructure** that eliminates halluci
 - ✅ Understanding that AI maturity is organizational, not technical
 
 ---
+#### Case Study 5: Deterministic Ontology Engine & Medallion Pipeline
 
+**The Challenge:** Eliminate unsustainable cloud token costs and runtime non-determinism in multi-agent LLM loops processing unstructured Fortune 100 documentation.
+
+**The Result:**
+- 💰 **100% runtime token cost reduction** ($0 per transaction) by shifting execution to local compute.
+- ⚡ **80% business logic automation** locked behind deterministic graph schema contracts.
+- 🛡 **Zero-defect baseline** achieved via 1,138 automated TDD green tests over 347 verified cases.
+- ✅ **Zero telemetry data leakage** using *El Lector*, an air-gapped local developer auditing tool.
+
+**Key Innovation:** Implemented the **80/20 Architecture Rule**, hardcoding core logic into local graph ontologies and restricting generative LLMs strictly to the initial ontology build phase and complex edge-case fallbacks (<20%).
+
+---
 
 
 ## 🏗️ Architecture Philosophy
@@ -165,35 +177,42 @@ Rather than contributing to existing systems, I **own** the complete stack:
 ## 📖 How to Read This Portfolio
 
 ### **For Technical Architecture Focus**
-1. Read Case Study 1 for production-grade semantic architecture and cost/latency impact
-2. Read Case Study 2 for platform engineering, autonomous frameworks, and scalability
-3. Read Case Study 4 for real-time AI risk auditing, neuro-symbolic governance, and cost-optimized mitigation
-4. Compare them all to understand how architecture compounds across complex domains
+
+1. Read **Case Study 1** for production-grade semantic architecture and cost/latency impact.
+2. Read **Case Study 2** for platform engineering, autonomous frameworks, and scalability.
+3. Read **Case Study 4** for real-time AI risk auditing, neuro-symbolic governance, and cost-optimized mitigation.
+4. Read **Case Study 5** for Medallion pipelines, local graph engines, and deterministic infrastructure.
+5. Compare them all to understand how architecture compounds across complex domains.
 
 ### **For Organizational Architecture & Leadership Focus**
-1. Read Case Study 3 (Enterprise AI Capability Scaling & Inclusive Academy Design) for the complete integrated system:
-   - **Pillar 1 (Structural Foundation):** Enterprise ML Department Blueprint
-   - **Pillar 2 (Horizontal Acceleration):** GenAI + Data Platform Center of Excellence operating model
-   - **Pillar 3 (Human-Centered Enablement):** Inclusive AI Academy design
-   - **Pillar 4 (Operational Resilience):** Strategies for operating under pressure and ambiguity
+
+1. Read **Case Study 3** (Enterprise AI Capability Scaling & Inclusive Academy Design) for the complete integrated system:
+* **Pillar 1 (Structural Foundation):** Enterprise ML Department Blueprint.
+* **Pillar 2 (Horizontal Acceleration):** GenAI + Data Platform Center of Excellence operating model.
+* **Pillar 3 (Human-Centered Enablement):** Inclusive AI Academy design.
+* **Pillar 4 (Operational Resilience):** Strategies for operating under pressure and ambiguity.
 
 
-### **For Complete Picture**
-- **Technical excellence** (Cases 1-2, 4): How to build deterministic, auditable AI systems
-- **Organizational leadership** (Case 3): How to structure, enable, include, operate at scale, and maintain resilience under pressure
 
-**Shows:** Ability to deliver impact through both **technical architecture** and **human/organizational systems**
+### **For the Complete Picture**
+
+* **Technical excellence (Cases 1, 2, 4, 5):** How to build deterministic, auditable AI systems, enforcing strict data pipelines and privacy boundaries.
+* **Organizational leadership (Case 3):** How to structure, enable, include, operate at scale, and maintain resilience under pressure.
+
+**Shows:** Ability to deliver impact through both **technical architecture** and **human/organizational systems**.
 
 ---
 
 ## 🎓 Core Takeaway
 
 **Enterprise AI is not about deploying larger LLMs — it's about:**
-1. **Technically:** Building verifiable semantic layers where human domain expertise meets autonomous validation
-2. **Organizationally:** Structuring capability, enabling teams at scale, and maintaining alignment under complexity
+
+1. **Technically:** Building verifiable semantic layers and local, deterministic graph engines with zero marginal runtime costs, where human domain expertise meets autonomous validation.
+2. **Organizationally:** Structuring capability, enabling diverse teams at scale, enforcing strict data pipelines, and maintaining alignment under complexity.
 
 The future belongs to architects and leaders who can deliver impact through **both technical excellence and organizational clarity.** That's where I operate.
 
 ---
 
-*Portfolio compiled June 2026. All case studies based on completed production deployments.*
+
+*Portfolio compiled June 2026. Case Studies 1–4 are based on completed production deployments. Case Study 5 represents an active architectural spike and proof of concept.*
