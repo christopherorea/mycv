@@ -48,6 +48,57 @@
   },
   "case_studies": [
     {
+  "id": "deterministic-ontology-engine",
+  "slug": "deterministic-ontology-engine",
+  "title": "Deterministic Ontology Engine & Medallion Pipeline",
+  "subtitle": "Enterprise architecture replacing high-cost agentic workflows with deterministic graph ontologies for Fortune 100 scale.",
+  "executive_summary": "Architected a high-level R&D spike to automate 80% of core business logic using graph ontologies over a Medallion pipeline, effectively eliminating repetitive token costs per transaction while enforcing strict TDD governance.",
+  "paradigm_shift": "Shifted from expensive, non-deterministic generative AI workflows to local, deterministic ontology engines for runtime execution.",
+  "kpis": [
+    { "label": "Per-Transaction Token Cost", "before": "High / Variable", "after": "$0", "impact": "100% Runtime Cost Reduction" },
+    { "label": "Core Logic Automation", "before": "Generative LLMs", "after": "Graph Contracts", "impact": "80% Deterministic Execution" },
+    { "label": "Pipeline Test Coverage", "before": "Unknown", "after": "1,138 Tests", "impact": "Zero-Defect Baseline" }
+  ],
+  "role_and_ownership": [
+    "Architected the Medallion data pipeline (Raw -> Bronze -> Silver -> Gold) for ontology extraction.",
+    "Designed the 80/20 rule, reserving generative models strictly for complex edge cases.",
+    "Engineered 'El Lector', an air-gapped, zero-telemetry local tool for asynchronous task auditing.",
+    "Enforced strict TDD methodologies, achieving 1,138 automated green tests before integration."
+  ],
+  "challenge": "Generative AI agent workflows were driving unsustainable token burn and non-deterministic execution in production. The client required a solution to scale complex data extraction without exposing sensitive information or relying on costly LLM calls for standard transactions.",
+  "solution_sections": [
+    {
+      "title": "Medallion Architecture & The 80/20 Rule",
+      "content": "Transformed unstructured enterprise data into deterministic schema contracts. By utilizing an ontology-driven approach, 80% of the workflow executes locally without AI, isolating generative models strictly for the remaining 20% of edge cases.",
+      "list": [
+        "Raw-to-Gold Medallion data flow",
+        "Deterministic graph-based execution",
+        "Cost-isolated generative fallback"
+      ]
+    },
+    {
+      "title": "Strict TDD & Air-gapped Governance",
+      "content": "Implemented rigorous engineering standards across the AI pipeline. Engineered 'El Lector' to audit domain know-how locally, paired with exhaustive fault-injection and mutation testing across 347 enterprise cases.",
+      "list": [
+        "1,138 automated green tests",
+        "Zero-telemetry data privacy",
+        "Synthetic-to-real evaluation frameworks"
+      ]
+    }
+  ],
+  "metrics_comparison": [
+    { "metric": "Runtime LLM Cost", "before": "Per Transaction", "after": "$0 (Local Compute)", "change": "100% Reduction" },
+    { "metric": "Test Infrastructure", "before": "Manual", "after": "1,138 Automated Tests", "change": "Enterprise-grade stability" },
+    { "metric": "Evaluation Sample", "before": "Small Scale", "after": "347 Verified Cases", "change": "Massive Scale Validation" }
+  ],
+  "takeaways": [
+    "Generative AI is best utilized to build ontologies, not to run daily deterministic transactions.",
+    "Shifting runtime decisions to local graph engines drastically outperforms LLMs in cost and reliability.",
+    "Strict TDD and air-gapped developer tools are mandatory for Fortune 100 data privacy.",
+    "True architectural leadership turns ambiguity into rigorous, executable engineering pipelines."
+  ]
+},
+    {
       "id": "automated-ai-risk-auditing",
       "slug": "automated-ai-risk-auditing",
       "title": "Automated AI Risk Auditing & Compliance Gateway",
@@ -226,6 +277,20 @@
     }
   ],
   "professional_experience": [
+    {
+  "company": "Blend",
+  "role": "Lead AI Engineer",
+  "period": "June 2026 - Present",
+  "src": "https://imgs.search.brave.com/g4EBkKnMYRiOSw7uNgnv1us-bP1h3HowoZ9FsVnkAEc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c25vd2ZsYWtlLmNv/bS9hZG9iZS9keW5h/bWljbWVkaWEvZGVs/aXZlci9kbS1haWQt/LWJjZDBiMGYxLWVl/NDUtNGE2NC1iOGI1/LTFkMjYyMDE2N2E2/Mi9ibGVuZDM2MC1s/bGMlNDAzeC5wbmc_/cHJlZmVyd2VicD10/cnVlJnF1YWxpdHk9/ODU",
+  "description": "Launching the new Mexico Vertical to architect enterprise-grade AI solutions for Fortune 100 companies. As Lead AI Engineer, I bridge strategic business vision and engineering execution across three core pillars: designing neural-symbolic and ontology-driven engines, enforcing technical governance by translating high-level stakeholder vision into strict executable roadmaps, and mentoring the next wave of top-tier AI professionals in Mexico.",
+  "achievements": [
+    "Architected and executed R&D spikes deriving Graph Ontologies via Medallion Pipelines (Raw -> Gold), establishing deterministic schema contracts that handle 80%+ of core logic and reserve LLMs strictly for edge cases.",
+    "Re-architected multi-stage agentic workflows by shifting runtime decisions to local, deterministic ontology engines, effectively eliminating repetitive token costs per transaction.",
+    "Enforced strict Test-Driven AI (TDD) methodologies across AI pipelines, implementing 1,100+ automated green tests, fault-injection/mutation testing, and 30+ boundary checks before production.",
+    "Designed multi-agent orchestration workflows that separate architectural decision-making from code generation and semantic mapping across 300+ enterprise cases.",
+    "Engineered air-gapped, zero-telemetry local developer tools (El Lector) to audit asynchronous task decisions and track domain know-how without exposing sensitive client data."
+  ]
+},
     {
       "company": "EY",
       "role": "Senior Databricks AI & Data Engineer / Consultant",
